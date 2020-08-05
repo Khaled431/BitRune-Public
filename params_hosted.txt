@@ -59,7 +59,7 @@ param=11=https://auth.jagex.com/
 param=12=1
 param=13=.runescape.com
 param=14=0
-param=15=1
+param=15=0
 param=16=false
 param=17=http://www.runescape.com/g=oldscape/slr.ws?order=LPWM
 param=18=
