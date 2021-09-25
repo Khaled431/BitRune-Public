@@ -1,6 +1,6 @@
 title=BitRune OSRS
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=https://96.225.34.14
+codebase=https://34.122.50.85
 cachedir=bitrune
 storebase=0
 initial_jar=gamepack_9098725.jar
