@@ -399,9 +399,9 @@
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-client-4.14.0.jar",
-            "size": 12262698,
+            "size": 12324116,
             "name": "runelite-client-4.14.0.jar",
-            "hash": "0a3561cbd2e0b2759dde59c93be99b13ab547e005226739ddba79ed810ac0157"
+            "hash": "307d03b582855db026ec081967efe59ea15d43d843a7543b4547b4b7c3635cdb"
         }
     ]
 }
