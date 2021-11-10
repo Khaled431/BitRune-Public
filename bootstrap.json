@@ -44,25 +44,25 @@
     "projectVersion": "4.14.0",
     "artifacts": [
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runescape-api-4.14.0.jar",
+            "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runescape-api-4.14.0.jar",
             "size": 112754,
             "name": "runescape-api-4.14.0.jar",
             "hash": "d137d633612f403d47dc99180fce01546713bb00c93bee0dccbe4200614c538c"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-api-4.14.0.jar",
+            "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-api-4.14.0.jar",
             "size": 1289695,
             "name": "runelite-api-4.14.0.jar",
             "hash": "d53ff9f739d8ac597add61303e05b26ae369273be87dcaf8af4bcb9967745b1c"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/http-api-4.14.0.jar",
+            "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/http-api-4.14.0.jar",
             "size": 158717,
             "name": "http-api-4.14.0.jar",
             "hash": "b348585c94414b73546892594c88ea4236081fc0c149d1a7abe0a3664793e09b"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-jshell-4.14.0.jar",
+            "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-jshell-4.14.0.jar",
             "size": 22970,
             "name": "runelite-jshell-4.14.0.jar",
             "hash": "f804728b36293b0bca6057cdaddb73ac278b23b51e430d95133ef9a64f2f669f"
@@ -386,7 +386,7 @@
             "hash": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
+            "path": "https://github.com/Khaled431/BitRune-Public/raw/master/com/openosrs/injection-annotations/1.0/injection-annotations-1.0.jar",
             "size": 7298,
             "name": "injection-annotations-1.0.jar",
             "hash": "bf1ef2a463fca3e1ece80c70d63a5f5f8ce7b260396175de0d7a8e98f2c4d06b"
@@ -398,10 +398,10 @@
             "hash": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe"
         },
         {
-            "path": "https://github.com/open-osrs/hosting/raw/master/nightly/runelite-client-4.14.0.jar",
-            "size": 12262696,
+            "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-client-4.14.0.jar",
+            "size": 12262698,
             "name": "runelite-client-4.14.0.jar",
-            "hash": "3cb738e3e40e96e069161c19cc541b69e0230cabd0bd4034347c9061a04986d2"
+            "hash": "0a3561cbd2e0b2759dde59c93be99b13ab547e005226739ddba79ed810ac0157"
         }
     ]
 }
