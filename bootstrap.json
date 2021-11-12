@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "f65865c719fead7651daf201a2d379e7ce3fbe9a",
+    "buildCommit": "b0678ab061aa1b0a60d235fb9f2a8ae805a7742f",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -57,9 +57,9 @@
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/http-api-4.14.0.jar",
-            "size": 158717,
+            "size": 158716,
             "name": "http-api-4.14.0.jar",
-            "hash": "b348585c94414b73546892594c88ea4236081fc0c149d1a7abe0a3664793e09b"
+            "hash": "21d209fe13c41932345777e0041a302d09fdc07ac5b1361fff6667411b249ab6"
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-jshell-4.14.0.jar",
@@ -399,9 +399,9 @@
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-client-4.14.0.jar",
-            "size": 12324116,
+            "size": 12324345,
             "name": "runelite-client-4.14.0.jar",
-            "hash": "307d03b582855db026ec081967efe59ea15d43d843a7543b4547b4b7c3635cdb"
+            "hash": "72e769bef576820236e3ba884428580403934ce84e1f03a8b274563b5579bea4"
         }
     ]
 }
