@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "b0678ab061aa1b0a60d235fb9f2a8ae805a7742f",
+    "buildCommit": "3354429440f22cedb3f7ea072b300fa437fce900",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -45,21 +45,21 @@
     "artifacts": [
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runescape-api-4.14.0.jar",
-            "size": 112754,
+            "size": 112892,
             "name": "runescape-api-4.14.0.jar",
-            "hash": "d137d633612f403d47dc99180fce01546713bb00c93bee0dccbe4200614c538c"
+            "hash": "56759b81296db19a8da5eff315f4211085f6d43fdce65b3efa95c154c13490eb"
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-api-4.14.0.jar",
-            "size": 1289695,
+            "size": 1289835,
             "name": "runelite-api-4.14.0.jar",
-            "hash": "d53ff9f739d8ac597add61303e05b26ae369273be87dcaf8af4bcb9967745b1c"
+            "hash": "2936b8db4eaf6e67eed732475696a9c3f673e8b94fd84cf26289e18a323650f3"
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/http-api-4.14.0.jar",
             "size": 158716,
             "name": "http-api-4.14.0.jar",
-            "hash": "21d209fe13c41932345777e0041a302d09fdc07ac5b1361fff6667411b249ab6"
+            "hash": "381e776f8ba93fa0fed73fa256c72fab1300b214f9dfb8b867991417819718b8"
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-jshell-4.14.0.jar",
@@ -399,9 +399,9 @@
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-client-4.14.0.jar",
-            "size": 12324345,
+            "size": 12546290,
             "name": "runelite-client-4.14.0.jar",
-            "hash": "72e769bef576820236e3ba884428580403934ce84e1f03a8b274563b5579bea4"
+            "hash": "41b1424c2784345b0cc8bf55f606a65cf6803855513d3d65a4d46f9cb35640a6"
         }
     ]
 }
