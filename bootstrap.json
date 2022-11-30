@@ -50,6 +50,12 @@
             "hash": "822c03697a0aa6b5f5cdc777f181487b11d3dfa1ee26e4a1da15a8952048befb"
         },
         {
+            "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-api-4.14.0-runtime.jar",
+            "size": 284213,
+            "name": "runelite-api-4.14.0-runtime.jar",
+            "hash": "fa35c4129f98936b5e8a3face9b9f4def40235c979703a6744dc33ef1c46894a"
+        },
+        {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-api-4.14.0.jar",
             "size": 1291303,
             "name": "runelite-api-4.14.0.jar",
