@@ -56,12 +56,6 @@
             "hash": "2936b8db4eaf6e67eed732475696a9c3f673e8b94fd84cf26289e18a323650f3"
         },
         {
-            "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/http-api-4.14.0.jar",
-            "size": 158716,
-            "name": "http-api-4.14.0.jar",
-            "hash": "381e776f8ba93fa0fed73fa256c72fab1300b214f9dfb8b867991417819718b8"
-        },
-        {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-jshell-4.14.0.jar",
             "size": 25077,
             "name": "runelite-jshell-4.14.0.jar",
