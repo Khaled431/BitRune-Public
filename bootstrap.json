@@ -81,9 +81,9 @@
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/client-1.9.2-SNAPSHOT.jar",
-      "size": 8153665,
+      "size": 8153695,
       "name": "client-1.9.2-SNAPSHOT.jar",
-      "hash": "7ff48414e67e3c0084397708181bc2522395cbcd90a3282b2deed9a1e1a7cf43"
+      "hash": "394bec6372e91b4a8c1937f3bc708866021dadb194fac595938a172928803b52"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/commons-lang3-3.7.jar",
@@ -171,9 +171,9 @@
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/injected-client-1.9.2-SNAPSHOT.jar",
-      "size": 3698096,
+      "size": 3697994,
       "name": "injected-client-1.9.2-SNAPSHOT.jar",
-      "hash": "5b17c43431812eaebed6aa96e91a551ab60bafdcaf7e96e6cfbbb34d7fabb3f7"
+      "hash": "74b0390b659be13571d3e7f920f00265148f2606be55fb97d2c8d266f7fb2f09"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/javax.inject-1.jar",
