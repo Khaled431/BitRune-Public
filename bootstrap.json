@@ -45,13 +45,13 @@
     "artifacts": [
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runescape-api-4.14.0.jar",
-            "size": 112892,
+            "size": 75173,
             "name": "runescape-api-4.14.0.jar",
             "hash": "822c03697a0aa6b5f5cdc777f181487b11d3dfa1ee26e4a1da15a8952048befb"
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-api-4.14.0.jar",
-            "size": 1289835,
+            "size": 1291303,
             "name": "runelite-api-4.14.0.jar",
             "hash": "2936b8db4eaf6e67eed732475696a9c3f673e8b94fd84cf26289e18a323650f3"
         },
@@ -63,7 +63,7 @@
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-jshell-4.14.0.jar",
-            "size": 22970,
+            "size": 25077,
             "name": "runelite-jshell-4.14.0.jar",
             "hash": "f6d4a8dba8c0f14c30199477f79a81d2f404dc6d501213f3167dfafd2869e413"
         },
@@ -399,7 +399,7 @@
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-client-4.14.0.jar",
-            "size": 12546290,
+            "size": 8153509,
             "name": "runelite-client-4.14.0.jar",
             "hash": "becd4a5f0245d72beb154decf6e210d575dd4bf686f34b9c008ad0b72a2e60fa"
         }
