@@ -41,7 +41,7 @@
     "-Dawt.useSystemAAFontSettings=on",
     "-Dswing.aatext=true"
   ],
-  "projectVersion": "4.14.0",
+  "projectVersion": "209.0.0",
   "artifacts": [
     [
       {
