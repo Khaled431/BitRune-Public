@@ -47,7 +47,7 @@
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runescape-api-4.14.0.jar",
             "size": 112892,
             "name": "runescape-api-4.14.0.jar",
-            "hash": "56759b81296db19a8da5eff315f4211085f6d43fdce65b3efa95c154c13490eb"
+            "hash": "822c03697a0aa6b5f5cdc777f181487b11d3dfa1ee26e4a1da15a8952048befb"
         },
         {
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-api-4.14.0.jar",
@@ -65,7 +65,7 @@
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-jshell-4.14.0.jar",
             "size": 22970,
             "name": "runelite-jshell-4.14.0.jar",
-            "hash": "f804728b36293b0bca6057cdaddb73ac278b23b51e430d95133ef9a64f2f669f"
+            "hash": "f6d4a8dba8c0f14c30199477f79a81d2f404dc6d501213f3167dfafd2869e413"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
@@ -401,7 +401,7 @@
             "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-client-4.14.0.jar",
             "size": 12546290,
             "name": "runelite-client-4.14.0.jar",
-            "hash": "41b1424c2784345b0cc8bf55f606a65cf6803855513d3d65a4d46f9cb35640a6"
+            "hash": "4597c4c59aa57de1ff1d38d17bea4b6a854d6dbb7881902ae4637aa3125a0b34"
         }
     ]
 }
