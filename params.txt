@@ -49,7 +49,7 @@ msg=new_version_link=http://oldschool.runescape.com/
 param=1=1
 param=2=https://payments.jagex.com/
 param=3=true
-param=4=16489
+param=4=1
 param=5=1
 param=6=0
 param=7=0
