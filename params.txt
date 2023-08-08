@@ -62,7 +62,7 @@ param=13=
 param=14=0
 param=15=0
 param=16=false
-param=17=http://www.runescape.com/g=oldscape/slr.ws?order=LPWM
+param=17=http://127.0.0.1:80/slr.ws?order=LPWM
 param=18=
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
 param=20=https://token-auth.production.jxp.aws.jagex.com/
