@@ -49,7 +49,7 @@ msg=new_version_link=http://oldschool.runescape.com/
 param=1=1
 param=2=https://payments.jagex.com/
 param=3=true
-param=4=16489
+param=4=1
 param=5=1
 param=6=0
 param=7=0
@@ -68,3 +68,5 @@ param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.co
 param=20=https://token-auth.production.jxp.aws.jagex.com/
 param=21=0
 param=22=0
+param=25=215
+param=28=https://account.jagex.com/
