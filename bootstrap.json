@@ -192,10 +192,10 @@
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/injected-client-1.10.10-SNAPSHOT.jar",
-      "size": 3892044,
+      "size": 3892839,
       "name": "injected-client-1.10.10-SNAPSHOT.jar",
       "structure": "injected-client-1.10.10-SNAPSHOT.jar",
-      "hash": "ba99bd310cf16e593ddb51471cd7461a34f4c4fe0fd5e7a70162ec2efdecec49"
+      "hash": "062e0f84f4cbc2b91552b1e998cb5d0c0023c9c5c796d65b4c4442fe5b5ca488"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/javax.inject-1.jar",
@@ -444,10 +444,10 @@
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runescape-api-1.10.10-SNAPSHOT.jar",
-      "size": 79033,
+      "size": 79078,
       "name": "runescape-api-1.10.10-SNAPSHOT.jar",
       "structure": "runescape-api-1.10.10-SNAPSHOT.jar",
-      "hash": "e854170aced21c3d44a0ff57a2565c0b4cb2b6184f874f5f7912dc08a4ad0a45"
+      "hash": "2a56fa6e1dd163daf8879f2efeae0f65957a5f0243d0c1eed211ac9bea9dd36d"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/slf4j-api-1.7.25.jar",

@@ -54,234 +54,465 @@
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.dat2",
-      "size": 256375925,
+      "size": 255772724,
       "name": "main_file_cache.dat2",
       "structure": "bin/cache/staged/runescape/main_file_cache.dat2",
-      "hash": "7f75c9783914e0ab1f5383c6b0838d7d429cfb2587d8e43735c56bc5c0d00f69"
+      "hash": "dd47b1167a7aaa87467b793cfdae4ad90a7536df088a7caa36fc897644dd2891"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.dat2v",
+      "size": 0,
+      "name": "main_file_cache.dat2v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.dat2v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx0",
       "size": 22158,
       "name": "main_file_cache.idx0",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx0",
-      "hash": "706c19527e116fe3c5a411a4be9e7a3697e21207c0c3e0fe003d779c1a191f61"
+      "hash": "2cafaf0b83e47a70d0b76cd86539181817de1980b7ce2ff6bcebf965183092dd"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx0v",
+      "size": 0,
+      "name": "main_file_cache.idx0v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx0v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx1",
       "size": 23922,
       "name": "main_file_cache.idx1",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx1",
-      "hash": "e3104b256db5e476e58fe78b077f0db8a04859a0eaa616112a426395c801c36c"
+      "hash": "d2fec0563575964336906839bf6938678a0f9cb4d148c97605ad154d9fc465cd"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx10",
-      "size": 744,
+      "size": 954,
       "name": "main_file_cache.idx10",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx10",
-      "hash": "ffc19f5464f87398f19b2fc9bd5c25ea0074afb42f44b942158b9d54457cb5ef"
+      "hash": "190415afb67b0b9ea44573b90784dfb20811fb8d78a32436253afe8e3b310be5"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx10v",
+      "size": 0,
+      "name": "main_file_cache.idx10v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx10v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx11",
       "size": 2376,
       "name": "main_file_cache.idx11",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx11",
-      "hash": "111d4113d987307874eeea3e4527d70342ce4af207818a61cfcee69580c55832"
+      "hash": "416f164f933b4c67a84b6df6da9359fca0668bf1a228e3807beef42ee7d1474c"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx11v",
+      "size": 0,
+      "name": "main_file_cache.idx11v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx11v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx12",
       "size": 12390,
       "name": "main_file_cache.idx12",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx12",
-      "hash": "ff66c06f41587ab8148d56b74e72cb24dddd30e090797629a490c83b86a404e2"
+      "hash": "01588aac30bc27b436fcff4876e76e255d469fb645a8a8d5e4beb951178fef8d"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx12v",
+      "size": 0,
+      "name": "main_file_cache.idx12v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx12v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx13",
       "size": 33792,
       "name": "main_file_cache.idx13",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx13",
-      "hash": "ccdeb9bd7e29bdcea05786665b7663125e726bcdf011a98604d274c793e5b036"
+      "hash": "ce088922d309761b9d108f4cc3105045bb5dc2580128564c3b8368de501e7892"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx13v",
+      "size": 0,
+      "name": "main_file_cache.idx13v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx13v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx14",
       "size": 105660,
       "name": "main_file_cache.idx14",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx14",
-      "hash": "5ad2e430160deb73f1a969b6f96d2713ab268679b3f81826871eee50f4266215"
+      "hash": "c54597fcca2f9f4ff9f1de5892f34de3fa1e0da09d06dc0f4ad95d267c931022"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx14v",
+      "size": 0,
+      "name": "main_file_cache.idx14v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx14v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx15",
       "size": 7698,
       "name": "main_file_cache.idx15",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx15",
-      "hash": "425948b702e806873478322890c53ee13e7eb30c7ab22eab30c043c2b87eb131"
+      "hash": "426ec95e5aed32374d39f32317fdc62dd36ec5ff9bd3fbf7448a884458f411d3"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx15v",
+      "size": 0,
+      "name": "main_file_cache.idx15v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx15v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx16",
       "size": 1344,
       "name": "main_file_cache.idx16",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx16",
-      "hash": "52b440a19503b7185c68149f81e020a4a9c1c0ff18b4131efda71557a02545c8"
+      "hash": "f4246f9b0b1dda1fb09dcf012007c0eaec62a37c344b958eb2b4551bd84476e1"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx16v",
+      "size": 0,
+      "name": "main_file_cache.idx16v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx16v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx17",
       "size": 54,
       "name": "main_file_cache.idx17",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx17",
-      "hash": "ca2a7c73638f33729083a139581cba3ca8eec40d0bbabe2345e50ee934669635"
+      "hash": "36c31540ada07f0ea55b3c049541a511a9113557ed38ee492f1c0a7629310cee"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx17v",
+      "size": 0,
+      "name": "main_file_cache.idx17v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx17v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx18",
       "size": 636,
       "name": "main_file_cache.idx18",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx18",
-      "hash": "5e2d6cd0aeda7299cefada9d142bbcd3532c52da6089f7098347239a82b39257"
+      "hash": "2a722c785de8db0be97c9a6ac549b1712c135cb1b8fe736c3a8aed9a52cd7580"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx18v",
+      "size": 0,
+      "name": "main_file_cache.idx18v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx18v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx19",
       "size": 492,
       "name": "main_file_cache.idx19",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx19",
-      "hash": "73b0a57509df51036c00cb23f40621d50fefbe2580367433c658f18ac7e2c76c"
+      "hash": "8dcd76b6c273477b70cf13b6e3af674c4fbebf7979924109683ef5ce193be6b9"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx19v",
+      "size": 0,
+      "name": "main_file_cache.idx19v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx19v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx1v",
+      "size": 0,
+      "name": "main_file_cache.idx1v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx1v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx2",
       "size": 210,
       "name": "main_file_cache.idx2",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx2",
-      "hash": "9823223f22d3b660cc56d15610cfe61fa68976b4f4828d31a251e5eea255d874"
+      "hash": "e9b86de313e891f7840f78ff2b1df2fe791d3178af6f2afac84c57e0f2b2b497"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx20",
       "size": 1032,
       "name": "main_file_cache.idx20",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx20",
-      "hash": "049920d266124027657d37068c22a1d338e765d7d95d71152f4ea25f8734150d"
+      "hash": "3aa9c8bf92e09a0938bc2fce613bec83f42dc5777b0d4b02ed8ccd0abd988643"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx20v",
+      "size": 0,
+      "name": "main_file_cache.idx20v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx20v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx21",
       "size": 108,
       "name": "main_file_cache.idx21",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx21",
-      "hash": "9e1a826e5f87597b475d3c80fa66a0f66f314f8881f0082e0e6f815a8425f5ab"
+      "hash": "08f60cabe8e7c9edc18acf2bd804379e6f5e4af5c794b7016d430474b42930df"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx21v",
+      "size": 0,
+      "name": "main_file_cache.idx21v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx21v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx22",
       "size": 36,
       "name": "main_file_cache.idx22",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx22",
-      "hash": "1609ad597f84096e428a81a9614aa180c699df7cc870cd07f38ece3c62c3879c"
+      "hash": "bfa6b2f1b97a975d3f4223dbdf37ebdbd6c8e8793e3ced9b1a0b0c7be3f52b5d"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx22v",
+      "size": 0,
+      "name": "main_file_cache.idx22v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx22v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx23",
       "size": 18,
       "name": "main_file_cache.idx23",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx23",
-      "hash": "90277996f888aae55e78206c57e014218213ecb12c279f12be35c8eded0366ac"
+      "hash": "986a342aca3ff1c3b01655a83ee652901968de458b38d1e174eaaa5aedd1cf69"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx23v",
+      "size": 0,
+      "name": "main_file_cache.idx23v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx23v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx24",
       "size": 12,
       "name": "main_file_cache.idx24",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx24",
-      "hash": "0acc5e13e53d8ee26a457090c11a365745ddea27849a9614bda36891e9d1b0ed"
+      "hash": "63a07e743f79ff104644afe9552127f5775cfa39d9155982e5b13cc6ab837a25"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx24v",
+      "size": 0,
+      "name": "main_file_cache.idx24v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx24v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx25",
       "size": 12,
       "name": "main_file_cache.idx25",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx25",
-      "hash": "d5e8904393c0e11e95b414153c2a013ea2e4492f197af816995cc8ecc4816b8e"
+      "hash": "d57abfce8d75c5db90c505398948a459a656ed81e402701462e94f8b51129713"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx255",
       "size": 186,
       "name": "main_file_cache.idx255",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx255",
-      "hash": "f4b895ba69f5bd6499e013a64a44d85115ed3809f72ffaa91671fe7db6429ffd"
+      "hash": "ba8c7ddff82f1b808cbd52b914ecb787bdee64b143be552e4832b56bdfbe5900"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx255v",
+      "size": 0,
+      "name": "main_file_cache.idx255v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx255v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx25v",
+      "size": 0,
+      "name": "main_file_cache.idx25v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx25v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx26",
       "size": 6,
       "name": "main_file_cache.idx26",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx26",
-      "hash": "d804426af8880b7cd7ced9e3edb016d488f4ddf734f3671c31bd39973431653b"
+      "hash": "7cedfca7e53c18532e7ee425f15f2002a0c38f2805a3bfe0107a523389060764"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx26v",
+      "size": 0,
+      "name": "main_file_cache.idx26v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx26v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx27",
       "size": 12,
       "name": "main_file_cache.idx27",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx27",
-      "hash": "17bd157bf36ee5aa9a9356174498f496c5d20d951173d036d5be63b609611c1a"
+      "hash": "88829c232f55d44388e2e3162423f03271ebd4bcd8f58cd9decc995bf867e88a"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx27v",
+      "size": 0,
+      "name": "main_file_cache.idx27v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx27v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx28",
       "size": 42,
       "name": "main_file_cache.idx28",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx28",
-      "hash": "fbe242f34d837b1f5c3be0fd9e44d181dc3dc8c4a23cfb9d4348f719bfa2d69d"
+      "hash": "ca71a3a6bce6ed7a957cf62045cbf646006d7b3a333a75411785068816a2db14"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx28v",
+      "size": 0,
+      "name": "main_file_cache.idx28v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx28v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx29",
       "size": 6,
       "name": "main_file_cache.idx29",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx29",
-      "hash": "f258aad69d99518f111c11355bd57ae416c777c9e5c0a76e90cc114032847b36"
+      "hash": "985c007ed56541ef0932718999c2dacb33946b88782dddb5e799306b2321ee72"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx29v",
+      "size": 0,
+      "name": "main_file_cache.idx29v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx29v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx2v",
+      "size": 0,
+      "name": "main_file_cache.idx2v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx2v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx3",
       "size": 5004,
       "name": "main_file_cache.idx3",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx3",
-      "hash": "f8c00bab08d1ffbd49c5c9f5f9ca4c399f2ad3ae79511af5580ba5e3cdbf205f"
+      "hash": "6290f6306ee240bb8169bca6c852b5a58dc21ecc39c3b419e0ae676b57002cd5"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx30",
       "size": 5898,
       "name": "main_file_cache.idx30",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx30",
-      "hash": "f8db469cd4bad9147e89130d7d7a4355567131bcd7e2b7a5681ef269e9dab00e"
+      "hash": "d4cbf546f72ed77874af0a08e6e5483d2a716077f238696b66a9512407daeb07"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx30v",
+      "size": 0,
+      "name": "main_file_cache.idx30v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx30v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx3v",
+      "size": 0,
+      "name": "main_file_cache.idx3v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx3v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx4",
       "size": 61350,
       "name": "main_file_cache.idx4",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx4",
-      "hash": "1eab3b4a258fef94bcce45001a4e3304d0d3f42471c24f7b08c751d1267c114a"
+      "hash": "0883db64876882e7aa6b6b9c858506594ddd24e3d089c8f135e55c9dd5f98141"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx4v",
+      "size": 0,
+      "name": "main_file_cache.idx4v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx4v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx5",
-      "size": 32532,
+      "size": 32544,
       "name": "main_file_cache.idx5",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx5",
-      "hash": "016b5d68906c768935e69d5d7e68828c6c33884ea9a895f718eaa81481cb4f7a"
+      "hash": "4db95d0ee0f00aadbe070318a4f63f53e8ec937c23e5dfb8c1bcf8d05a8c28e9"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx5v",
+      "size": 0,
+      "name": "main_file_cache.idx5v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx5v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx6",
       "size": 4836,
       "name": "main_file_cache.idx6",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx6",
-      "hash": "9b59804586635d59378057aca0a834c0f586c99b87fe7b70e0163195e36f2776"
+      "hash": "69ce47d4887797834046129e0ac2798031a993bb7344a16843429d83111eb8cd"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx6v",
+      "size": 0,
+      "name": "main_file_cache.idx6v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx6v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx7",
       "size": 391938,
       "name": "main_file_cache.idx7",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx7",
-      "hash": "33af7228cb2e5290a01475d907b70d460094e69e6b45f456f8ef2640d9e84ea9"
+      "hash": "3b0826f32615e3ba23b9de8e3f4d494fa5f23e55d67b146be6169ded82db7a32"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx7v",
+      "size": 0,
+      "name": "main_file_cache.idx7v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx7v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx8",
-      "size": 36906,
+      "size": 37812,
       "name": "main_file_cache.idx8",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx8",
-      "hash": "2653d1516a586c5112b61ffa04617fa2f15446cb39db173b364db1ca485a54d9"
+      "hash": "cccd096e917fb5766b8595482868e663753bdccd65ea3e3ade1ea67ff3de306f"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx8v",
+      "size": 0,
+      "name": "main_file_cache.idx8v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx8v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx9",
       "size": 5766,
       "name": "main_file_cache.idx9",
       "structure": "bin/cache/staged/runescape/main_file_cache.idx9",
-      "hash": "5683b2bff0083d86d0a0f3c3451bc4fd4bc41ddb6e6c72883eba5dd90670420c"
+      "hash": "c0ff06454de9a3c2acc986a8fe2f16711e1645383a40c6fe4e3aa4cf248e3bd9"
+    },
+    {
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx9v",
+      "size": 0,
+      "name": "main_file_cache.idx9v",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx9v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cowboii.gif",
@@ -362,10 +593,10 @@
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/client-main.jar",
-      "size": 33882264,
+      "size": 33452030,
       "name": "client-main.jar",
       "structure": "code/client-main.jar",
-      "hash": "b37e98034d6b71e8818bfb750cd3b2724822b4163b64378766cbb9ff987ec9fd"
+      "hash": "bfa5b0c8d8e75d8f61a4c6c1638fc110cc156653ea3eb25ac2d2dd7173fdf929"
     },
     {
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/commons-lang3-3.12.0.jar",
