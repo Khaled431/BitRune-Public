@@ -45,431 +45,795 @@
   "projectVersion": "209.0.0",
   "artifacts": [
     {
-      "name": "annotations-23.0.0.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/annotations-23.0.0.jar",
-      "hash": "7b0f19724082cbfcbc66e5abea2b9bc92cf08a1ea11e191933ed43801eb3cd05",
-      "structure": "annotations-23.0.0.jar",
-      "size": 29371
+      "name": "bg_logo.png",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/bg_logo.png",
+      "hash": "212e344d5bb4dc755fd658d408fed11292726ac21f9c8bd96bcf6de577973816",
+      "structure": "bin/bg_logo.png",
+      "size": 71059
     },
     {
-      "name": "aopalliance-1.0.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/aopalliance-1.0.jar",
-      "hash": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
-      "structure": "aopalliance-1.0.jar",
-      "size": 4467
+      "name": "main_file_cache.dat2",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.dat2",
+      "hash": "3cd5e7461af31cad17f54a807aa0854bf3c3c56272464729ac5a40ad295aa243",
+      "structure": "bin/cache/staged/runescape/main_file_cache.dat2",
+      "size": 256375925
     },
     {
-      "name": "archive-patcher-applier-1.2.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/archive-patcher-applier-1.2.jar",
-      "hash": "ce932f3eeeb31021ae4d62108fdab23e18b7efd79833e4cd050e2d78d78c3347",
-      "structure": "archive-patcher-applier-1.2.jar",
-      "size": 50339
+      "name": "main_file_cache.dat2v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.dat2v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.dat2v",
+      "size": 0
     },
     {
-      "name": "autocomplete-3.1.1.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/autocomplete-3.1.1.jar",
-      "hash": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d",
-      "structure": "autocomplete-3.1.1.jar",
-      "size": 153177
+      "name": "main_file_cache.idx0",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx0",
+      "hash": "706c19527e116fe3c5a411a4be9e7a3697e21207c0c3e0fe003d779c1a191f61",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx0",
+      "size": 22158
     },
     {
-      "name": "byte-buddy-1.9.10.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/byte-buddy-1.9.10.jar",
-      "hash": "2936debc4d7b6c534848d361412e2d0f8bd06f7f27a6f4e728a20e97648d2bf3",
-      "structure": "byte-buddy-1.9.10.jar",
-      "size": 3272730
+      "name": "main_file_cache.idx0v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx0v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx0v",
+      "size": 0
     },
     {
-      "name": "byte-buddy-agent-1.9.10.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/byte-buddy-agent-1.9.10.jar",
-      "hash": "8ed739d29132103250d307d2e8e3c95f07588ef0543ab11d2881d00768a5e182",
-      "structure": "byte-buddy-agent-1.9.10.jar",
-      "size": 43420
+      "name": "main_file_cache.idx1",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx1",
+      "hash": "e3104b256db5e476e58fe78b077f0db8a04859a0eaa616112a426395c801c36c",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx1",
+      "size": 23922
     },
     {
-      "name": "client-1.10.10-SNAPSHOT.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/client-1.10.10-SNAPSHOT.jar",
-      "hash": "d9842b658a2f43443ba17abed078053cfc3fc3376d9bc4c8cf1c86f7394bfe94",
-      "structure": "client-1.10.10-SNAPSHOT.jar",
-      "size": 8293761
+      "name": "main_file_cache.idx10",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx10",
+      "hash": "ffc19f5464f87398f19b2fc9bd5c25ea0074afb42f44b942158b9d54457cb5ef",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx10",
+      "size": 744
     },
     {
-      "name": "commons-lang3-3.7.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/commons-lang3-3.7.jar",
-      "hash": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847",
-      "structure": "commons-lang3-3.7.jar",
-      "size": 499634
+      "name": "main_file_cache.idx10v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx10v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx10v",
+      "size": 0
     },
     {
-      "name": "commons-text-1.2.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/commons-text-1.2.jar",
-      "hash": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b",
-      "structure": "commons-text-1.2.jar",
-      "size": 136544
+      "name": "main_file_cache.idx11",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx11",
+      "hash": "111d4113d987307874eeea3e4527d70342ce4af207818a61cfcee69580c55832",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx11",
+      "size": 2376
     },
     {
-      "name": "discord-1.4.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/discord-1.4.jar",
-      "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
-      "structure": "discord-1.4.jar",
-      "size": 681590
+      "name": "main_file_cache.idx11v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx11v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx11v",
+      "size": 0
     },
     {
-      "name": "gson-2.8.5.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/gson-2.8.5.jar",
-      "hash": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
-      "structure": "gson-2.8.5.jar",
-      "size": 241622
+      "name": "main_file_cache.idx12",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx12",
+      "hash": "ff66c06f41587ab8148d56b74e72cb24dddd30e090797629a490c83b86a404e2",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx12",
+      "size": 12390
+    },
+    {
+      "name": "main_file_cache.idx12v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx12v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx12v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx13",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx13",
+      "hash": "ccdeb9bd7e29bdcea05786665b7663125e726bcdf011a98604d274c793e5b036",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx13",
+      "size": 33792
+    },
+    {
+      "name": "main_file_cache.idx13v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx13v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx13v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx14",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx14",
+      "hash": "5ad2e430160deb73f1a969b6f96d2713ab268679b3f81826871eee50f4266215",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx14",
+      "size": 105660
+    },
+    {
+      "name": "main_file_cache.idx14v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx14v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx14v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx15",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx15",
+      "hash": "425948b702e806873478322890c53ee13e7eb30c7ab22eab30c043c2b87eb131",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx15",
+      "size": 7698
+    },
+    {
+      "name": "main_file_cache.idx15v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx15v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx15v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx16",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx16",
+      "hash": "52b440a19503b7185c68149f81e020a4a9c1c0ff18b4131efda71557a02545c8",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx16",
+      "size": 1344
+    },
+    {
+      "name": "main_file_cache.idx16v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx16v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx16v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx17",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx17",
+      "hash": "ca2a7c73638f33729083a139581cba3ca8eec40d0bbabe2345e50ee934669635",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx17",
+      "size": 54
+    },
+    {
+      "name": "main_file_cache.idx17v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx17v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx17v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx18",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx18",
+      "hash": "5e2d6cd0aeda7299cefada9d142bbcd3532c52da6089f7098347239a82b39257",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx18",
+      "size": 636
+    },
+    {
+      "name": "main_file_cache.idx18v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx18v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx18v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx19",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx19",
+      "hash": "73b0a57509df51036c00cb23f40621d50fefbe2580367433c658f18ac7e2c76c",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx19",
+      "size": 492
+    },
+    {
+      "name": "main_file_cache.idx19v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx19v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx19v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx1v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx1v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx1v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx2",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx2",
+      "hash": "9823223f22d3b660cc56d15610cfe61fa68976b4f4828d31a251e5eea255d874",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx2",
+      "size": 210
+    },
+    {
+      "name": "main_file_cache.idx20",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx20",
+      "hash": "049920d266124027657d37068c22a1d338e765d7d95d71152f4ea25f8734150d",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx20",
+      "size": 1032
+    },
+    {
+      "name": "main_file_cache.idx20v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx20v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx20v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx21",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx21",
+      "hash": "9e1a826e5f87597b475d3c80fa66a0f66f314f8881f0082e0e6f815a8425f5ab",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx21",
+      "size": 108
+    },
+    {
+      "name": "main_file_cache.idx21v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx21v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx21v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx22",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx22",
+      "hash": "1609ad597f84096e428a81a9614aa180c699df7cc870cd07f38ece3c62c3879c",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx22",
+      "size": 36
+    },
+    {
+      "name": "main_file_cache.idx22v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx22v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx22v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx23",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx23",
+      "hash": "90277996f888aae55e78206c57e014218213ecb12c279f12be35c8eded0366ac",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx23",
+      "size": 18
+    },
+    {
+      "name": "main_file_cache.idx23v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx23v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx23v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx24",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx24",
+      "hash": "0acc5e13e53d8ee26a457090c11a365745ddea27849a9614bda36891e9d1b0ed",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx24",
+      "size": 12
+    },
+    {
+      "name": "main_file_cache.idx24v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx24v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx24v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx25",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx25",
+      "hash": "d5e8904393c0e11e95b414153c2a013ea2e4492f197af816995cc8ecc4816b8e",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx25",
+      "size": 12
+    },
+    {
+      "name": "main_file_cache.idx255",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx255",
+      "hash": "5694dd096aa49f3d35ccf20e55bd716f480b2a9556daf0eb1f0e159e351ab232",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx255",
+      "size": 186
+    },
+    {
+      "name": "main_file_cache.idx255v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx255v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx255v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx25v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx25v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx25v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx26",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx26",
+      "hash": "d804426af8880b7cd7ced9e3edb016d488f4ddf734f3671c31bd39973431653b",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx26",
+      "size": 6
+    },
+    {
+      "name": "main_file_cache.idx26v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx26v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx26v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx27",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx27",
+      "hash": "17bd157bf36ee5aa9a9356174498f496c5d20d951173d036d5be63b609611c1a",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx27",
+      "size": 12
+    },
+    {
+      "name": "main_file_cache.idx27v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx27v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx27v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx28",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx28",
+      "hash": "fbe242f34d837b1f5c3be0fd9e44d181dc3dc8c4a23cfb9d4348f719bfa2d69d",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx28",
+      "size": 42
+    },
+    {
+      "name": "main_file_cache.idx28v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx28v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx28v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx29",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx29",
+      "hash": "f258aad69d99518f111c11355bd57ae416c777c9e5c0a76e90cc114032847b36",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx29",
+      "size": 6
+    },
+    {
+      "name": "main_file_cache.idx29v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx29v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx29v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx2v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx2v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx2v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx3",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx3",
+      "hash": "f8c00bab08d1ffbd49c5c9f5f9ca4c399f2ad3ae79511af5580ba5e3cdbf205f",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx3",
+      "size": 5004
+    },
+    {
+      "name": "main_file_cache.idx30",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx30",
+      "hash": "f8db469cd4bad9147e89130d7d7a4355567131bcd7e2b7a5681ef269e9dab00e",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx30",
+      "size": 5898
+    },
+    {
+      "name": "main_file_cache.idx30v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx30v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx30v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx3v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx3v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx3v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx4",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx4",
+      "hash": "1eab3b4a258fef94bcce45001a4e3304d0d3f42471c24f7b08c751d1267c114a",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx4",
+      "size": 61350
+    },
+    {
+      "name": "main_file_cache.idx4v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx4v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx4v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx5",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx5",
+      "hash": "016b5d68906c768935e69d5d7e68828c6c33884ea9a895f718eaa81481cb4f7a",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx5",
+      "size": 32532
+    },
+    {
+      "name": "main_file_cache.idx5v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx5v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx5v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx6",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx6",
+      "hash": "9b59804586635d59378057aca0a834c0f586c99b87fe7b70e0163195e36f2776",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx6",
+      "size": 4836
+    },
+    {
+      "name": "main_file_cache.idx6v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx6v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx6v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx7",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx7",
+      "hash": "33af7228cb2e5290a01475d907b70d460094e69e6b45f456f8ef2640d9e84ea9",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx7",
+      "size": 391938
+    },
+    {
+      "name": "main_file_cache.idx7v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx7v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx7v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx8",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx8",
+      "hash": "2653d1516a586c5112b61ffa04617fa2f15446cb39db173b364db1ca485a54d9",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx8",
+      "size": 36906
+    },
+    {
+      "name": "main_file_cache.idx8v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx8v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx8v",
+      "size": 0
+    },
+    {
+      "name": "main_file_cache.idx9",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx9",
+      "hash": "5683b2bff0083d86d0a0f3c3451bc4fd4bc41ddb6e6c72883eba5dd90670420c",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx9",
+      "size": 5766
+    },
+    {
+      "name": "main_file_cache.idx9v",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cache/staged/runescape/main_file_cache.idx9v",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "structure": "bin/cache/staged/runescape/main_file_cache.idx9v",
+      "size": 0
+    },
+    {
+      "name": "cowboii.gif",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/cowboii.gif",
+      "hash": "f242e85f3aee941c6676e80e6d39bdec997a965b7bcb5676cc54ae0e27e0e698",
+      "structure": "bin/cowboii.gif",
+      "size": 3182840
+    },
+    {
+      "name": "icon128.png",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/icon128.png",
+      "hash": "a6a2cd27483b1823e8b6010f7f0d9964ea9aa5a09102c271074f48369e98ea03",
+      "structure": "bin/icon128.png",
+      "size": 29757
+    },
+    {
+      "name": "icon16.png",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/icon16.png",
+      "hash": "1afc1d129ce2c55a288a71c509c4f713af6be18e246694ee64f3c2558d003ba4",
+      "structure": "bin/icon16.png",
+      "size": 978
+    },
+    {
+      "name": "icon256.png",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/icon256.png",
+      "hash": "63681bcec775b9f0de01b05723260c10b8858542b6bdeb89371941694a52a2a8",
+      "structure": "bin/icon256.png",
+      "size": 70039
+    },
+    {
+      "name": "icon32.png",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/icon32.png",
+      "hash": "a1f213d004a76813f54d8baa8559c11b62fb3c0edf8dc17116506b801bb72049",
+      "structure": "bin/icon32.png",
+      "size": 3059
+    },
+    {
+      "name": "icon64.png",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/icon64.png",
+      "hash": "be863abf90fee6c16ddee451bbfc67174ff3bb8f0e4000b2376df3b2efb8186c",
+      "structure": "bin/icon64.png",
+      "size": 9721
+    },
+    {
+      "name": "ml56_148-3",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/maps-cache/ml56_148-3",
+      "hash": "efec77541083f0720c7bec804b6bf504df5444c4c8244bbe17342f3d8c61f9bf",
+      "structure": "bin/maps-cache/ml56_148-3",
+      "size": 10803
+    },
+    {
+      "name": "ml56_50-3",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/maps-cache/ml56_50-3",
+      "hash": "e8f2f5cc03a697abad9cc6880f1fe401dd4d022a4307d69e396e200e903427d1",
+      "structure": "bin/maps-cache/ml56_50-3",
+      "size": 36736
+    },
+    {
+      "name": "mm56_50-3",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/bin/maps-cache/mm56_50-3",
+      "hash": "1ff902cd4b80f94ed578980cd3433fdda77980159193bc3a0d1abb0fd0502502",
+      "structure": "bin/maps-cache/mm56_50-3",
+      "size": 202232
+    },
+    {
+      "name": "AppleJavaExtensions-1.4.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/AppleJavaExtensions-1.4.jar",
+      "hash": "5c46876715c80a166849efe7f2de54aaacafc9f33eb33732a0b6dfc6552cb0c2",
+      "structure": "code/AppleJavaExtensions-1.4.jar",
+      "size": 11719
+    },
+    {
+      "name": "bcprov-jdk15on-1.51.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/bcprov-jdk15on-1.51.jar",
+      "hash": "8748f0ec73895f7f18c1a9c13cf754fddddf0451cf472463ef02f93c3e7a7de7",
+      "structure": "code/bcprov-jdk15on-1.51.jar",
+      "size": 2842667
+    },
+    {
+      "name": "client-main.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/client-main.jar",
+      "hash": "bfa5b0c8d8e75d8f61a4c6c1638fc110cc156653ea3eb25ac2d2dd7173fdf929",
+      "structure": "code/client-main.jar",
+      "size": 33452030
+    },
+    {
+      "name": "commons-lang3-3.12.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/commons-lang3-3.12.0.jar",
+      "hash": "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e",
+      "structure": "code/commons-lang3-3.12.0.jar",
+      "size": 587402
+    },
+    {
+      "name": "error_prone_annotations-2.0.18.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/error_prone_annotations-2.0.18.jar",
+      "hash": "cb4cfad870bf563a07199f3ebea5763f0dec440fcda0b318640b1feaa788656b",
+      "structure": "code/error_prone_annotations-2.0.18.jar",
+      "size": 12078
+    },
+    {
+      "name": "flatlaf-3.1.1.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/flatlaf-3.1.1.jar",
+      "hash": "264ef9528627510ca20f3c680c4e3ac0129bcac235b8d4d9f014261f3cd6d56f",
+      "structure": "code/flatlaf-3.1.1.jar",
+      "size": 790619
+    },
+    {
+      "name": "gson-2.8.9.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/gson-2.8.9.jar",
+      "hash": "d3999291855de495c94c743761b8ab5176cfeabe281a5ab0d8e8d45326fd703e",
+      "structure": "code/gson-2.8.9.jar",
+      "size": 258075
     },
     {
       "name": "guava-23.2-jre.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/guava-23.2-jre.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/guava-23.2-jre.jar",
       "hash": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
-      "structure": "guava-23.2-jre.jar",
+      "structure": "code/guava-23.2-jre.jar",
       "size": 2649860
     },
     {
-      "name": "guice-4.1.0-no_aop.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/guice-4.1.0-no_aop.jar",
-      "hash": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad",
-      "structure": "guice-4.1.0-no_aop.jar",
-      "size": 428603
+      "name": "j2objc-annotations-1.1.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/j2objc-annotations-1.1.jar",
+      "hash": "2994a7eb78f2710bd3d3bfb639b2c94e219cedac0d4d084d516e78c16dddecf6",
+      "structure": "code/j2objc-annotations-1.1.jar",
+      "size": 8782
     },
     {
-      "name": "guice-4.1.0.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/guice-4.1.0.jar",
-      "hash": "9b9df27a5b8c7864112b4137fd92b36c3f1395bfe57be42fedf2f520ead1a93e",
-      "structure": "guice-4.1.0.jar",
-      "size": 674028
+      "name": "java-discord-rpc-2.0.1.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/java-discord-rpc-2.0.1.jar",
+      "hash": "78180a09d95c856757661bc49f5cbfd0368c5c103ae9d6976391042d77b92050",
+      "structure": "code/java-discord-rpc-2.0.1.jar",
+      "size": 616070
     },
     {
-      "name": "guice-assistedinject-4.1.0.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/guice-assistedinject-4.1.0.jar",
-      "hash": "663728123fb9a6b79ea39ae289e5d56b4113e1b8e9413eb792f91e53a6dd5868",
-      "structure": "guice-assistedinject-4.1.0.jar",
-      "size": 42873
+      "name": "jna-5.11.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/jna-5.11.0.jar",
+      "hash": "e2bce99e4aefd4dab097019a799d317cb3b5d56c3ddd7984c69a772dceed0dd3",
+      "structure": "code/jna-5.11.0.jar",
+      "size": 1825174
     },
     {
-      "name": "guice-grapher-4.1.0.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/guice-grapher-4.1.0.jar",
-      "hash": "75eb30ef7bdc633505c628ddf407e32c204f9eea0e545d5f4ef6a5c9b331b505",
-      "structure": "guice-grapher-4.1.0.jar",
-      "size": 53023
+      "name": "jna-platform-5.11.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/jna-platform-5.11.0.jar",
+      "hash": "6fae75fc94cd956efee576bd75437f94f68b06faa2f9bf134a32d9c07d263a10",
+      "structure": "code/jna-platform-5.11.0.jar",
+      "size": 1352301
     },
     {
-      "name": "guice-multibindings-4.1.0.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/guice-multibindings-4.1.0.jar",
-      "hash": "592773a4c745cc87ba37fa0647fed8126c7e474349c603c9f229aa25d3ef5448",
-      "structure": "guice-multibindings-4.1.0.jar",
-      "size": 81866
+      "name": "jsr305-1.3.9.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/jsr305-1.3.9.jar",
+      "hash": "905721a0eea90a81534abb7ee6ef4ea2e5e645fa1def0a5cd88402df1b46c9ed",
+      "structure": "code/jsr305-1.3.9.jar",
+      "size": 33015
     },
     {
-      "name": "guice-testlib-4.1.0.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/guice-testlib-4.1.0.jar",
-      "hash": "86ae88350b0a18e534ed887d8c9f08bdc7c11afb31459ea341d6a8707a060cc2",
-      "structure": "guice-testlib-4.1.0.jar",
-      "size": 14456
+      "name": "log4j-api-2.17.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/log4j-api-2.17.0.jar",
+      "hash": "ab9cadc80e234580e3f3c8c18644314fccd4b3cd3f7085d4e934866cb561b95d",
+      "structure": "code/log4j-api-2.17.0.jar",
+      "size": 301776
     },
     {
-      "name": "hamcrest-core-1.3.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/hamcrest-core-1.3.jar",
-      "hash": "66fdef91e9739348df7a096aa384a5685f4e875584cce89386a7a47251c4d8e9",
-      "structure": "hamcrest-core-1.3.jar",
-      "size": 45024
+      "name": "log4j-core-2.17.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/log4j-core-2.17.0.jar",
+      "hash": "65c33dc9b24a5e5f6cacae62680641582894749c7bf16c951032ef92f3e12a60",
+      "structure": "code/log4j-core-2.17.0.jar",
+      "size": 1789339
     },
     {
-      "name": "hamcrest-library-1.3.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/hamcrest-library-1.3.jar",
-      "hash": "711d64522f9ec410983bd310934296da134be4254a125080a0416ec178dfad1c",
-      "structure": "hamcrest-library-1.3.jar",
-      "size": 53070
+      "name": "log4j-slf4j-impl-2.17.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/log4j-slf4j-impl-2.17.0.jar",
+      "hash": "fadead3e99c6786d8fb4c2ccf78104c7ec629d47cdb0a0f14f48263961f17e2c",
+      "structure": "code/log4j-slf4j-impl-2.17.0.jar",
+      "size": 24252
     },
     {
-      "name": "http-api-1.2.6.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/http-api-1.2.6.jar",
-      "hash": "2547aed6fba543727c8abe66e30f674b9b29cf87bca330d2b018b0c94610d0a4",
-      "structure": "http-api-1.2.6.jar",
-      "size": 42286
+      "name": "lwjgl-3.3.2-natives-linux-arm32.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-3.3.2-natives-linux-arm32.jar",
+      "hash": "2b9267e68bb2beeea76476fd5cf84c2265098d83e7aac5bd716e89a415fed890",
+      "structure": "code/lwjgl-3.3.2-natives-linux-arm32.jar",
+      "size": 89347
     },
     {
-      "name": "injected-client-1.10.10-SNAPSHOT.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/injected-client-1.10.10-SNAPSHOT.jar",
-      "hash": "26f51200d873d5e4bda258d0eafae95f7a090ec16b742bbb839ef83d18af6cb6",
-      "structure": "injected-client-1.10.10-SNAPSHOT.jar",
-      "size": 3893586
-    },
-    {
-      "name": "javax.inject-1.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/javax.inject-1.jar",
-      "hash": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
-      "structure": "javax.inject-1.jar",
-      "size": 2497
-    },
-    {
-      "name": "jna-5.9.0.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/jna-5.9.0.jar",
-      "hash": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
-      "structure": "jna-5.9.0.jar",
-      "size": 1729586
-    },
-    {
-      "name": "jna-platform-5.9.0.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/jna-platform-5.9.0.jar",
-      "hash": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
-      "structure": "jna-platform-5.9.0.jar",
-      "size": 1343236
-    },
-    {
-      "name": "jopt-simple-5.0.1.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/jopt-simple-5.0.1.jar",
-      "hash": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec",
-      "structure": "jopt-simple-5.0.1.jar",
-      "size": 78826
-    },
-    {
-      "name": "jshell-1.10.10-SNAPSHOT.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/jshell-1.10.10-SNAPSHOT.jar",
-      "hash": "1d8a0db409803c937a90c7403f50ca761d64d46dd9e224778906cbf66b86cf93",
-      "structure": "jshell-1.10.10-SNAPSHOT.jar",
-      "size": 25078
-    },
-    {
-      "name": "jsr305-3.0.2.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/jsr305-3.0.2.jar",
-      "hash": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
-      "structure": "jsr305-3.0.2.jar",
-      "size": 19936
-    },
-    {
-      "name": "junit-4.12.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/junit-4.12.jar",
-      "hash": "59721f0805e223d84b90677887d9ff567dc534d7c502ca903c0c2b17f05c116a",
-      "structure": "junit-4.12.jar",
-      "size": 314932
-    },
-    {
-      "name": "logback-classic-1.2.9.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/logback-classic-1.2.9.jar",
-      "hash": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
-      "structure": "logback-classic-1.2.9.jar",
-      "size": 233855
-    },
-    {
-      "name": "logback-core-1.2.9.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/logback-core-1.2.9.jar",
-      "hash": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
-      "structure": "logback-core-1.2.9.jar",
-      "size": 454201
-    },
-    {
-      "name": "lombok-1.18.20.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lombok-1.18.20.jar",
-      "hash": "ce947be6c2fbe759fbbe8ef3b42b6825f814c98c8853f1013f2d9630cedf74b0",
-      "structure": "lombok-1.18.20.jar",
-      "size": 1931717
+      "name": "lwjgl-3.3.2-natives-linux-arm64.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-3.3.2-natives-linux-arm64.jar",
+      "hash": "f4f4c13cd70224ec443753837f6652ec7ed11c5857ffc3e7d03e216aef6e663b",
+      "structure": "code/lwjgl-3.3.2-natives-linux-arm64.jar",
+      "size": 90795
     },
     {
       "name": "lwjgl-3.3.2-natives-linux.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-3.3.2-natives-linux.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-3.3.2-natives-linux.jar",
       "hash": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
-      "structure": "lwjgl-3.3.2-natives-linux.jar",
+      "structure": "code/lwjgl-3.3.2-natives-linux.jar",
       "size": 114144
     },
     {
       "name": "lwjgl-3.3.2-natives-macos-arm64.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-3.3.2-natives-macos-arm64.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-3.3.2-natives-macos-arm64.jar",
       "hash": "ebb8474ad3c19b906649ac41cef62314fd9b355cea5509d9be0c8728db7a6c38",
-      "structure": "lwjgl-3.3.2-natives-macos-arm64.jar",
+      "structure": "code/lwjgl-3.3.2-natives-macos-arm64.jar",
       "size": 48270
     },
     {
       "name": "lwjgl-3.3.2-natives-macos.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-3.3.2-natives-macos.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-3.3.2-natives-macos.jar",
       "hash": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
-      "structure": "lwjgl-3.3.2-natives-macos.jar",
+      "structure": "code/lwjgl-3.3.2-natives-macos.jar",
       "size": 60240
     },
     {
-      "name": "lwjgl-3.3.2-natives-windows-arm64.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-3.3.2-natives-windows-arm64.jar",
-      "hash": "1575d4e2e789b411b3a193ac04a2c2d53dbc504de80a560578191c1c7d79e5ee",
-      "structure": "lwjgl-3.3.2-natives-windows-arm64.jar",
-      "size": 133200
-    },
-    {
       "name": "lwjgl-3.3.2-natives-windows-x86.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-3.3.2-natives-windows-x86.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-3.3.2-natives-windows-x86.jar",
       "hash": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
-      "structure": "lwjgl-3.3.2-natives-windows-x86.jar",
+      "structure": "code/lwjgl-3.3.2-natives-windows-x86.jar",
       "size": 139365
     },
     {
       "name": "lwjgl-3.3.2-natives-windows.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-3.3.2-natives-windows.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-3.3.2-natives-windows.jar",
       "hash": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
-      "structure": "lwjgl-3.3.2-natives-windows.jar",
+      "structure": "code/lwjgl-3.3.2-natives-windows.jar",
       "size": 164993
     },
     {
       "name": "lwjgl-3.3.2.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-3.3.2.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-3.3.2.jar",
       "hash": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
-      "structure": "lwjgl-3.3.2.jar",
+      "structure": "code/lwjgl-3.3.2.jar",
       "size": 786196
     },
     {
-      "name": "lwjgl-opencl-3.3.2.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-opencl-3.3.2.jar",
-      "hash": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
-      "structure": "lwjgl-opencl-3.3.2.jar",
-      "size": 238152
+      "name": "lwjgl-jawt-3.3.2.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-jawt-3.3.2.jar",
+      "hash": "1ec31329a878a0840b53fd525c8feadd22159b7c522ab5a959f501a862cbf83a",
+      "structure": "code/lwjgl-jawt-3.3.2.jar",
+      "size": 23880
+    },
+    {
+      "name": "lwjgl-opengl-3.3.2-natives-linux-arm32.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-opengl-3.3.2-natives-linux-arm32.jar",
+      "hash": "ca7f99a01d76e25c8e0560bc9128c8a3a9401f1e1bd24d27f44d6b4899803a5d",
+      "structure": "code/lwjgl-opengl-3.3.2-natives-linux-arm32.jar",
+      "size": 59265
+    },
+    {
+      "name": "lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
+      "hash": "836e5641627f7bf3c966c93946f400cb77cdf65b8a347763e55e069d313e6def",
+      "structure": "code/lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
+      "size": 58627
     },
     {
       "name": "lwjgl-opengl-3.3.2-natives-linux.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-opengl-3.3.2-natives-linux.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-opengl-3.3.2-natives-linux.jar",
       "hash": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
-      "structure": "lwjgl-opengl-3.3.2-natives-linux.jar",
+      "structure": "code/lwjgl-opengl-3.3.2-natives-linux.jar",
       "size": 80464
     },
     {
       "name": "lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
       "hash": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
-      "structure": "lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
+      "structure": "code/lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
       "size": 42490
     },
     {
       "name": "lwjgl-opengl-3.3.2-natives-macos.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-opengl-3.3.2-natives-macos.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-opengl-3.3.2-natives-macos.jar",
       "hash": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
-      "structure": "lwjgl-opengl-3.3.2-natives-macos.jar",
+      "structure": "code/lwjgl-opengl-3.3.2-natives-macos.jar",
       "size": 41485
     },
     {
-      "name": "lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
-      "hash": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0",
-      "structure": "lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
-      "size": 83132
-    },
-    {
       "name": "lwjgl-opengl-3.3.2-natives-windows-x86.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-opengl-3.3.2-natives-windows-x86.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-opengl-3.3.2-natives-windows-x86.jar",
       "hash": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff",
-      "structure": "lwjgl-opengl-3.3.2-natives-windows-x86.jar",
+      "structure": "code/lwjgl-opengl-3.3.2-natives-windows-x86.jar",
       "size": 88610
     },
     {
       "name": "lwjgl-opengl-3.3.2-natives-windows.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-opengl-3.3.2-natives-windows.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-opengl-3.3.2-natives-windows.jar",
       "hash": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
-      "structure": "lwjgl-opengl-3.3.2-natives-windows.jar",
+      "structure": "code/lwjgl-opengl-3.3.2-natives-windows.jar",
       "size": 101530
     },
     {
       "name": "lwjgl-opengl-3.3.2.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/lwjgl-opengl-3.3.2.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl-opengl-3.3.2.jar",
       "hash": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
-      "structure": "lwjgl-opengl-3.3.2.jar",
+      "structure": "code/lwjgl-opengl-3.3.2.jar",
       "size": 928871
     },
     {
-      "name": "mockito-core-3.1.0.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/mockito-core-3.1.0.jar",
-      "hash": "89b09e518e04f5c35f5ccf7abe45e72f594070a53d95cc2579001bd392c5afa6",
-      "structure": "mockito-core-3.1.0.jar",
-      "size": 591028
+      "name": "lwjgl3-awt-0.1.9-SNAPSHOT.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/lwjgl3-awt-0.1.9-SNAPSHOT.jar",
+      "hash": "1cdfc1fa2be911f1f9c7fd3138dcb4d604650b025fd357fa49cd8a59c41a7859",
+      "structure": "code/lwjgl3-awt-0.1.9-SNAPSHOT.jar",
+      "size": 48882
     },
     {
-      "name": "mockwebserver-3.14.9.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/mockwebserver-3.14.9.jar",
-      "hash": "099f70ab2997f628bf93c358baac829ccb625b6e08a9361e09d6923fa9af1f68",
-      "structure": "mockwebserver-3.14.9.jar",
-      "size": 43037
+      "name": "okhttp-3.12.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/okhttp-3.12.0.jar",
+      "hash": "71787f2c599e0441c7a4413983bfdd93d40b56e1badc5e0413d6a4c485ba3f35",
+      "structure": "code/okhttp-3.12.0.jar",
+      "size": 422786
     },
     {
-      "name": "objenesis-2.6.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/objenesis-2.6.jar",
-      "hash": "5e168368fbc250af3c79aa5fef0c3467a2d64e5a7bd74005f25d8399aeb0708d",
-      "structure": "objenesis-2.6.jar",
-      "size": 55684
+      "name": "okio-1.15.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/okio-1.15.0.jar",
+      "hash": "693fa319a7e8843300602b204023b7674f106ebcb577f2dd5807212b66118bd2",
+      "structure": "code/okio-1.15.0.jar",
+      "size": 88732
     },
     {
-      "name": "okhttp-3.14.9.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/okhttp-3.14.9.jar",
-      "hash": "2570fab55515cbf881d7a4ceef49fc515490bc027057e666776a2832465aeca0",
-      "structure": "okhttp-3.14.9.jar",
-      "size": 430488
-    },
-    {
-      "name": "okio-1.17.2.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/okio-1.17.2.jar",
-      "hash": "f80ce42d2ffac47ad4c47e1d6f980d604d247ceb1a886705cf4581ab0c9fe2b8",
-      "structure": "okio-1.17.2.jar",
-      "size": 91980
-    },
-    {
-      "name": "orange-extensions-1.1.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/orange-extensions-1.1.jar",
-      "hash": "d0bd6817f4e73c9f99ea4c24271b73e48dabfb8964cf7617724cc9659ed674b3",
-      "structure": "orange-extensions-1.1.jar",
-      "size": 13536
-    },
-    {
-      "name": "protobuf-javalite-3.21.12.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/protobuf-javalite-3.21.12.jar",
-      "hash": "cf678ab3fbc992f4b4654a86c03557c21904d635202b67688fcb2eca442c2d40",
-      "structure": "protobuf-javalite-3.21.12.jar",
-      "size": 703181
-    },
-    {
-      "name": "rlawt-1.4.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/rlawt-1.4.jar",
-      "hash": "1efad07ade0ca6231c9870718f318950cce2e1c8da8b91e317067b616ce14a36",
-      "structure": "rlawt-1.4.jar",
-      "size": 222488
-    },
-    {
-      "name": "rsyntaxtextarea-3.1.2.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/rsyntaxtextarea-3.1.2.jar",
-      "hash": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097",
-      "structure": "rsyntaxtextarea-3.1.2.jar",
-      "size": 1209918
-    },
-    {
-      "name": "runelite-api-1.10.10-SNAPSHOT.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-api-1.10.10-SNAPSHOT.jar",
-      "hash": "e53516762639d3f52484b87e3c82237760460e1dd23779e9fcf489c943126139",
-      "structure": "runelite-api-1.10.10-SNAPSHOT.jar",
-      "size": 1374299
-    },
-    {
-      "name": "runescape-api-1.10.10-SNAPSHOT.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runescape-api-1.10.10-SNAPSHOT.jar",
-      "hash": "2a56fa6e1dd163daf8879f2efeae0f65957a5f0243d0c1eed211ac9bea9dd36d",
-      "structure": "runescape-api-1.10.10-SNAPSHOT.jar",
-      "size": 79078
-    },
-    {
-      "name": "slf4j-api-1.7.25.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/slf4j-api-1.7.25.jar",
-      "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
-      "structure": "slf4j-api-1.7.25.jar",
-      "size": 41203
-    },
-    {
-      "name": "substance-8.0.02.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/substance-8.0.02.jar",
-      "hash": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
-      "structure": "substance-8.0.02.jar",
-      "size": 1589195
-    },
-    {
-      "name": "trident-1.5.00.jar",
-      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/trident-1.5.00.jar",
-      "hash": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
-      "structure": "trident-1.5.00.jar",
-      "size": 79726
+      "name": "reflection.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/HDOS/code/reflection.jar",
+      "hash": "c3854edf7a9dbc935bccc12f7e0e9892970c6ccfdfe143c9ade3a0818bf403b5",
+      "structure": "code/reflection.jar",
+      "size": 151769
     }
   ]
 }
