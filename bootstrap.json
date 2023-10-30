@@ -193,9 +193,9 @@
     {
       "name": "injected-client-1.10.10-SNAPSHOT.jar",
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/injected-client-1.10.10-SNAPSHOT.jar",
-      "hash": "ddcc9ac85244e8c9aa2cf791dbcd1607c9096d236aa408dce7a33491a1f3ca6e",
+      "hash": "f75292b4f97cc89c0fa917e2f07d3b94b1692c6eb78a3523b86b1f9b99a72ddc",
       "structure": "injected-client-1.10.10-SNAPSHOT.jar",
-      "size": 3893888
+      "size": 3893797
     },
     {
       "name": "javax.inject-1.jar",
