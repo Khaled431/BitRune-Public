@@ -88,9 +88,9 @@
     {
       "name": "client-1.10.10-SNAPSHOT.jar",
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/client-1.10.10-SNAPSHOT.jar",
-      "hash": "1b50e8a9e58421d073a71c11f48f46cdc0c4b1f5f349d7279955b995323a3254",
+      "hash": "d778bce0d56bc239f392e6c0ad8b058d472053c90da27043f89d9cf2c1dc9186",
       "structure": "client-1.10.10-SNAPSHOT.jar",
-      "size": 14696786
+      "size": 14895403
     },
     {
       "name": "commons-lang3-3.7.jar",
@@ -193,9 +193,9 @@
     {
       "name": "injected-client-1.10.10-SNAPSHOT.jar",
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/injected-client-1.10.10-SNAPSHOT.jar",
-      "hash": "0563a1c30aeab37704500b0fb4b680693eebb41f7e4226e5ca38c769b63f7fcd",
+      "hash": "71c4166bf75d466ff11284db0bda76b6e1af17548c8eeaf243ccefdda3595dab",
       "structure": "injected-client-1.10.10-SNAPSHOT.jar",
-      "size": 3894456
+      "size": 3893989
     },
     {
       "name": "javax.inject-1.jar",
@@ -438,9 +438,9 @@
     {
       "name": "runelite-api-1.10.10-SNAPSHOT.jar",
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/runelite-api-1.10.10-SNAPSHOT.jar",
-      "hash": "4124d6857f99826979d4c3da2aa7f0dc6d4dfe701d0883c956355ed8005a6949",
+      "hash": "2e6bd426801b1d6ba25b493ec0fcaeda2e14862f36ddfc63fed9120d1110487f",
       "structure": "runelite-api-1.10.10-SNAPSHOT.jar",
-      "size": 1374652
+      "size": 1375979
     },
     {
       "name": "runescape-api-1.10.10-SNAPSHOT.jar",
