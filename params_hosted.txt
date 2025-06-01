@@ -1,6 +1,6 @@
 title=BitRune OSRS
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=https://148.113.163.194
+codebase=https://86.48.19.107
 mainclass=client.class
 cachedir=bitrune
 storebase=0
@@ -68,5 +68,5 @@ param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.co
 param=20=https://token-auth.production.jxp.aws.jagex.com/
 param=21=0
 param=22=0
-param=25=215
+param=25=227
 param=28=https://account.jagex.com/
