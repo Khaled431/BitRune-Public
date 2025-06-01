@@ -1,6 +1,6 @@
 title=BitRune OSRS
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=https://148.113.163.194
+codebase=https://86.48.19.107
 mainclass=client.class
 cachedir=bitrune
 storebase=0
