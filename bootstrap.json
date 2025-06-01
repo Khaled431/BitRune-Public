@@ -86,6 +86,13 @@
       "size": 43420
     },
     {
+      "name": "client-1.10.45-SNAPSHOT.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/client-1.10.45-SNAPSHOT.jar",
+      "hash": "a0e1b9b7e65573bd40feb22e01132591e4dabd529de1041f8917638b6699d350",
+      "structure": "client-1.10.45-SNAPSHOT.jar",
+      "size": 6533136
+    },
+    {
       "name": "commons-lang3-3.7.jar",
       "path": "https://github.com/Khaled431/BitRune-Public/raw/master/nightly/commons-lang3-3.7.jar",
       "hash": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847",
