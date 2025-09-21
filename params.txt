@@ -60,7 +60,7 @@ param=11=https://auth.jagex.com/
 param=12=1
 param=13=
 param=14=0
-param=15=0
+param=15=1
 param=16=false
 param=17=http://127.0.0.1:80/slr.ws?order=LPWM
 param=18=
@@ -70,6 +70,7 @@ param=21=0
 param=22=0
 param=25=215
 param=28=https://account.jagex.com/
+
 
 
 
