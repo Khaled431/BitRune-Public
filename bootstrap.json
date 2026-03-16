@@ -1,457 +1,502 @@
-[
-  {
-    "name": "annotations-23.0.0.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/annotations-23.0.0.jar",
-    "hash": "7b0f19724082cbfcbc66e5abea2b9bc92cf08a1ea11e191933ed43801eb3cd05",
-    "structure": "annotations-23.0.0.jar",
-    "size": 29371
-  },
-  {
-    "name": "aopalliance-1.0.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/aopalliance-1.0.jar",
-    "hash": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
-    "structure": "aopalliance-1.0.jar",
-    "size": 4467
-  },
-  {
-    "name": "autocomplete-3.1.1.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/autocomplete-3.1.1.jar",
-    "hash": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d",
-    "structure": "autocomplete-3.1.1.jar",
-    "size": 153177
-  },
-  {
-    "name": "bcprov-jdk15on-1.59.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/bcprov-jdk15on-1.59.jar",
-    "hash": "1c31e44e331d25e46d293b3e8ee2d07028a67db011e74cb2443285aed1d59c85",
-    "structure": "bcprov-jdk15on-1.59.jar",
-    "size": 4092400
-  },
-  {
-    "name": "byte-buddy-1.9.10.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/byte-buddy-1.9.10.jar",
-    "hash": "2936debc4d7b6c534848d361412e2d0f8bd06f7f27a6f4e728a20e97648d2bf3",
-    "structure": "byte-buddy-1.9.10.jar",
-    "size": 3272730
-  },
-  {
-    "name": "byte-buddy-agent-1.9.10.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/byte-buddy-agent-1.9.10.jar",
-    "hash": "8ed739d29132103250d307d2e8e3c95f07588ef0543ab11d2881d00768a5e182",
-    "structure": "byte-buddy-agent-1.9.10.jar",
-    "size": 43420
-  },
-  {
-    "name": "client-1.12.9-SNAPSHOT.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/client-1.12.9-SNAPSHOT.jar",
-    "hash": "654429175427f7fe8f9a3c44152a61097888afb4473d626149a1e9e3d088b469",
-    "structure": "client-1.12.9-SNAPSHOT.jar",
-    "size": 5043850
-  },
-  {
-    "name": "commons-lang3-3.7.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/commons-lang3-3.7.jar",
-    "hash": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847",
-    "structure": "commons-lang3-3.7.jar",
-    "size": 499634
-  },
-  {
-    "name": "commons-text-1.2.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/commons-text-1.2.jar",
-    "hash": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b",
-    "structure": "commons-text-1.2.jar",
-    "size": 136544
-  },
-  {
-    "name": "discord-1.4.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/discord-1.4.jar",
-    "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
-    "structure": "discord-1.4.jar",
-    "size": 681590
-  },
-  {
-    "name": "flatlaf-3.2.5-rl4.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/flatlaf-3.2.5-rl4.jar",
-    "hash": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
-    "structure": "flatlaf-3.2.5-rl4.jar",
-    "size": 792432
-  },
-  {
-    "name": "flatlaf-extras-3.2.5-rl4.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/flatlaf-extras-3.2.5-rl4.jar",
-    "hash": "8ed1c0ecc09bdaf7224e3750bf3fa29266295f902d3ceeaa1380b26c888b761f",
-    "structure": "flatlaf-extras-3.2.5-rl4.jar",
-    "size": 114738
-  },
-  {
-    "name": "gson-2.8.5.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/gson-2.8.5.jar",
-    "hash": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
-    "structure": "gson-2.8.5.jar",
-    "size": 241622
-  },
-  {
-    "name": "guava-23.2-jre.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guava-23.2-jre.jar",
-    "hash": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
-    "structure": "guava-23.2-jre.jar",
-    "size": 2649860
-  },
-  {
-    "name": "guice-4.1.0-no_aop.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-4.1.0-no_aop.jar",
-    "hash": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad",
-    "structure": "guice-4.1.0-no_aop.jar",
-    "size": 428603
-  },
-  {
-    "name": "guice-4.1.0.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-4.1.0.jar",
-    "hash": "9b9df27a5b8c7864112b4137fd92b36c3f1395bfe57be42fedf2f520ead1a93e",
-    "structure": "guice-4.1.0.jar",
-    "size": 674028
-  },
-  {
-    "name": "guice-assistedinject-4.1.0.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-assistedinject-4.1.0.jar",
-    "hash": "663728123fb9a6b79ea39ae289e5d56b4113e1b8e9413eb792f91e53a6dd5868",
-    "structure": "guice-assistedinject-4.1.0.jar",
-    "size": 42873
-  },
-  {
-    "name": "guice-grapher-4.1.0.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-grapher-4.1.0.jar",
-    "hash": "75eb30ef7bdc633505c628ddf407e32c204f9eea0e545d5f4ef6a5c9b331b505",
-    "structure": "guice-grapher-4.1.0.jar",
-    "size": 53023
-  },
-  {
-    "name": "guice-multibindings-4.1.0.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-multibindings-4.1.0.jar",
-    "hash": "592773a4c745cc87ba37fa0647fed8126c7e474349c603c9f229aa25d3ef5448",
-    "structure": "guice-multibindings-4.1.0.jar",
-    "size": 81866
-  },
-  {
-    "name": "guice-testlib-4.1.0.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-testlib-4.1.0.jar",
-    "hash": "86ae88350b0a18e534ed887d8c9f08bdc7c11afb31459ea341d6a8707a060cc2",
-    "structure": "guice-testlib-4.1.0.jar",
-    "size": 14456
-  },
-  {
-    "name": "hamcrest-core-1.3.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/hamcrest-core-1.3.jar",
-    "hash": "66fdef91e9739348df7a096aa384a5685f4e875584cce89386a7a47251c4d8e9",
-    "structure": "hamcrest-core-1.3.jar",
-    "size": 45024
-  },
-  {
-    "name": "hamcrest-library-1.3.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/hamcrest-library-1.3.jar",
-    "hash": "711d64522f9ec410983bd310934296da134be4254a125080a0416ec178dfad1c",
-    "structure": "hamcrest-library-1.3.jar",
-    "size": 53070
-  },
-  {
-    "name": "http-api-1.2.21.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/http-api-1.2.21.jar",
-    "hash": "cc3cc5e3c1aab5b99dbc2d4d3c85ad16a09feb3d2eb8e5f54bc77b81dea5bb86",
-    "structure": "http-api-1.2.21.jar",
-    "size": 42859
-  },
-  {
-    "name": "injected-client-1.12.9-SNAPSHOT.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/injected-client-1.12.9-SNAPSHOT.jar",
-    "hash": "15ed7cadbd1258a6ff9650ad2c06096fb56024a1a953ecaf81e0a62bc219afea",
-    "structure": "injected-client-1.12.9-SNAPSHOT.jar",
-    "size": 2005719
-  },
-  {
-    "name": "javax.inject-1.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/javax.inject-1.jar",
-    "hash": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
-    "structure": "javax.inject-1.jar",
-    "size": 2497
-  },
-  {
-    "name": "jna-5.9.0.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jna-5.9.0.jar",
-    "hash": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
-    "structure": "jna-5.9.0.jar",
-    "size": 1729586
-  },
-  {
-    "name": "jna-platform-5.9.0.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jna-platform-5.9.0.jar",
-    "hash": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
-    "structure": "jna-platform-5.9.0.jar",
-    "size": 1343236
-  },
-  {
-    "name": "jopt-simple-5.0.1.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jopt-simple-5.0.1.jar",
-    "hash": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec",
-    "structure": "jopt-simple-5.0.1.jar",
-    "size": 78826
-  },
-  {
-    "name": "jshell-1.12.9-SNAPSHOT.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jshell-1.12.9-SNAPSHOT.jar",
-    "hash": "8b62856ba7f7c48643fc37742ef696dc5c0c7e31a7ceacb3ccf21744ec11ca67",
-    "structure": "jshell-1.12.9-SNAPSHOT.jar",
-    "size": 25237
-  },
-  {
-    "name": "json-20220320.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/json-20220320.jar",
-    "hash": "1edf7fcea79a16b8dfdd3bc988ddec7f8908b1f7762fdf00d39acb037542747a",
-    "structure": "json-20220320.jar",
-    "size": 70939
-  },
-  {
-    "name": "jsr305-3.0.2.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jsr305-3.0.2.jar",
-    "hash": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
-    "structure": "jsr305-3.0.2.jar",
-    "size": 19936
-  },
-  {
-    "name": "jsvg-1.2.0.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jsvg-1.2.0.jar",
-    "hash": "912f37d85deaaf5b747700f5bd3761a93b14a5161900e7436cff386b6176118a",
-    "structure": "jsvg-1.2.0.jar",
-    "size": 499132
-  },
-  {
-    "name": "junit-4.12.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/junit-4.12.jar",
-    "hash": "59721f0805e223d84b90677887d9ff567dc534d7c502ca903c0c2b17f05c116a",
-    "structure": "junit-4.12.jar",
-    "size": 314932
-  },
-  {
-    "name": "logback-classic-1.2.9.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/logback-classic-1.2.9.jar",
-    "hash": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
-    "structure": "logback-classic-1.2.9.jar",
-    "size": 233855
-  },
-  {
-    "name": "logback-core-1.2.9.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/logback-core-1.2.9.jar",
-    "hash": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
-    "structure": "logback-core-1.2.9.jar",
-    "size": 454201
-  },
-  {
-    "name": "lombok-1.18.30.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lombok-1.18.30.jar",
-    "hash": "14151b47582d570b4de16a147ece3bdbd19ace4aee5bde3a5578c87db9ecb998",
-    "structure": "lombok-1.18.30.jar",
-    "size": 2011339
-  },
-  {
-    "name": "lwjgl-3.3.2-natives-linux-arm64.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-linux-arm64.jar",
-    "hash": "f4f4c13cd70224ec443753837f6652ec7ed11c5857ffc3e7d03e216aef6e663b",
-    "structure": "lwjgl-3.3.2-natives-linux-arm64.jar",
-    "size": 90795
-  },
-  {
-    "name": "lwjgl-3.3.2-natives-linux.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-linux.jar",
-    "hash": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
-    "structure": "lwjgl-3.3.2-natives-linux.jar",
-    "size": 114144
-  },
-  {
-    "name": "lwjgl-3.3.2-natives-macos-arm64.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-macos-arm64.jar",
-    "hash": "ebb8474ad3c19b906649ac41cef62314fd9b355cea5509d9be0c8728db7a6c38",
-    "structure": "lwjgl-3.3.2-natives-macos-arm64.jar",
-    "size": 48270
-  },
-  {
-    "name": "lwjgl-3.3.2-natives-macos.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-macos.jar",
-    "hash": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
-    "structure": "lwjgl-3.3.2-natives-macos.jar",
-    "size": 60240
-  },
-  {
-    "name": "lwjgl-3.3.2-natives-windows-arm64.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-windows-arm64.jar",
-    "hash": "1575d4e2e789b411b3a193ac04a2c2d53dbc504de80a560578191c1c7d79e5ee",
-    "structure": "lwjgl-3.3.2-natives-windows-arm64.jar",
-    "size": 133200
-  },
-  {
-    "name": "lwjgl-3.3.2-natives-windows-x86.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-windows-x86.jar",
-    "hash": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
-    "structure": "lwjgl-3.3.2-natives-windows-x86.jar",
-    "size": 139365
-  },
-  {
-    "name": "lwjgl-3.3.2-natives-windows.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-windows.jar",
-    "hash": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
-    "structure": "lwjgl-3.3.2-natives-windows.jar",
-    "size": 164993
-  },
-  {
-    "name": "lwjgl-3.3.2.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2.jar",
-    "hash": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
-    "structure": "lwjgl-3.3.2.jar",
-    "size": 786196
-  },
-  {
-    "name": "lwjgl-opencl-3.3.2.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opencl-3.3.2.jar",
-    "hash": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
-    "structure": "lwjgl-opencl-3.3.2.jar",
-    "size": 238152
-  },
-  {
-    "name": "lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
-    "hash": "836e5641627f7bf3c966c93946f400cb77cdf65b8a347763e55e069d313e6def",
-    "structure": "lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
-    "size": 58627
-  },
-  {
-    "name": "lwjgl-opengl-3.3.2-natives-linux.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-linux.jar",
-    "hash": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
-    "structure": "lwjgl-opengl-3.3.2-natives-linux.jar",
-    "size": 80464
-  },
-  {
-    "name": "lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
-    "hash": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
-    "structure": "lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
-    "size": 42490
-  },
-  {
-    "name": "lwjgl-opengl-3.3.2-natives-macos.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-macos.jar",
-    "hash": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
-    "structure": "lwjgl-opengl-3.3.2-natives-macos.jar",
-    "size": 41485
-  },
-  {
-    "name": "lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
-    "hash": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0",
-    "structure": "lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
-    "size": 83132
-  },
-  {
-    "name": "lwjgl-opengl-3.3.2-natives-windows-x86.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-windows-x86.jar",
-    "hash": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff",
-    "structure": "lwjgl-opengl-3.3.2-natives-windows-x86.jar",
-    "size": 88610
-  },
-  {
-    "name": "lwjgl-opengl-3.3.2-natives-windows.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-windows.jar",
-    "hash": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
-    "structure": "lwjgl-opengl-3.3.2-natives-windows.jar",
-    "size": 101530
-  },
-  {
-    "name": "lwjgl-opengl-3.3.2.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2.jar",
-    "hash": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
-    "structure": "lwjgl-opengl-3.3.2.jar",
-    "size": 928871
-  },
-  {
-    "name": "mockito-core-3.1.0.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/mockito-core-3.1.0.jar",
-    "hash": "89b09e518e04f5c35f5ccf7abe45e72f594070a53d95cc2579001bd392c5afa6",
-    "structure": "mockito-core-3.1.0.jar",
-    "size": 591028
-  },
-  {
-    "name": "mockwebserver-3.14.9.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/mockwebserver-3.14.9.jar",
-    "hash": "099f70ab2997f628bf93c358baac829ccb625b6e08a9361e09d6923fa9af1f68",
-    "structure": "mockwebserver-3.14.9.jar",
-    "size": 43037
-  },
-  {
-    "name": "objenesis-2.6.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/objenesis-2.6.jar",
-    "hash": "5e168368fbc250af3c79aa5fef0c3467a2d64e5a7bd74005f25d8399aeb0708d",
-    "structure": "objenesis-2.6.jar",
-    "size": 55684
-  },
-  {
-    "name": "okhttp-3.14.9.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/okhttp-3.14.9.jar",
-    "hash": "2570fab55515cbf881d7a4ceef49fc515490bc027057e666776a2832465aeca0",
-    "structure": "okhttp-3.14.9.jar",
-    "size": 430488
-  },
-  {
-    "name": "okio-1.17.2.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/okio-1.17.2.jar",
-    "hash": "f80ce42d2ffac47ad4c47e1d6f980d604d247ceb1a886705cf4581ab0c9fe2b8",
-    "structure": "okio-1.17.2.jar",
-    "size": 91980
-  },
-  {
-    "name": "orange-extensions-1.1.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/orange-extensions-1.1.jar",
-    "hash": "d0bd6817f4e73c9f99ea4c24271b73e48dabfb8964cf7617724cc9659ed674b3",
-    "structure": "orange-extensions-1.1.jar",
-    "size": 13536
-  },
-  {
-    "name": "protobuf-javalite-3.21.12.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/protobuf-javalite-3.21.12.jar",
-    "hash": "cf678ab3fbc992f4b4654a86c03557c21904d635202b67688fcb2eca442c2d40",
-    "structure": "protobuf-javalite-3.21.12.jar",
-    "size": 703181
-  },
-  {
-    "name": "rlawt-1.6.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/rlawt-1.6.jar",
-    "hash": "aaed84205736b9074b9e8163c17167ca40a66becf5ab469d6af2266f8e8ef5a0",
-    "structure": "rlawt-1.6.jar",
-    "size": 236090
-  },
-  {
-    "name": "rsyntaxtextarea-3.1.2.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/rsyntaxtextarea-3.1.2.jar",
-    "hash": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097",
-    "structure": "rsyntaxtextarea-3.1.2.jar",
-    "size": 1209918
-  },
-  {
-    "name": "runelite-api-1.12.9-SNAPSHOT.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/runelite-api-1.12.9-SNAPSHOT.jar",
-    "hash": "4ac7f54731c6d3a12970a2280907d4b3360d1ac1c1dd1c87f65ccb40a5af0088",
-    "structure": "runelite-api-1.12.9-SNAPSHOT.jar",
-    "size": 4998266
-  },
-  {
-    "name": "runescape-api-1.12.9-SNAPSHOT.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/runescape-api-1.12.9-SNAPSHOT.jar",
-    "hash": "17dce536eb07c6ec589d9c111c4c5fd2d1dd5f34f4fa4eb795b7e58265252cf0",
-    "structure": "runescape-api-1.12.9-SNAPSHOT.jar",
-    "size": 5609
-  },
-  {
-    "name": "slf4j-api-1.7.25.jar",
-    "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/slf4j-api-1.7.25.jar",
-    "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
-    "structure": "slf4j-api-1.7.25.jar",
-    "size": 41203
-  }
-]
+{
+  "launcherArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm=true",
+    "-Xmx1G",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Xincgc",
+    "-XX:+UseConcMarkSweepGC",
+    "-XX:+UseParNewGC",
+    "-Djna.nosys=true"
+  ],
+  "buildCommit": "3354429440f22cedb3f7ea072b300fa437fce900",
+  "launcherJvm11Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm=true",
+    "-Xmx1G",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Djna.nosys=true"
+  ],
+  "minimumLauncherVersion": "2.2.0",
+  "clientJvm9Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx1G",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Djna.nosys=true",
+    "-Dawt.useSystemAAFontSettings=on",
+    "-Dswing.aatext=true"
+  ],
+  "clientJvmArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx1G",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Xincgc",
+    "-XX:+UseConcMarkSweepGC",
+    "-XX:+UseParNewGC",
+    "-Djna.nosys=true",
+    "-Dawt.useSystemAAFontSettings=on",
+    "-Dswing.aatext=true"
+  ],
+  "projectVersion": "209.0.0",
+  "artifacts": [
+    {
+      "name": "annotations-23.0.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/annotations-23.0.0.jar",
+      "hash": "7b0f19724082cbfcbc66e5abea2b9bc92cf08a1ea11e191933ed43801eb3cd05",
+      "structure": "annotations-23.0.0.jar",
+      "size": 29371
+    },
+    {
+      "name": "aopalliance-1.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/aopalliance-1.0.jar",
+      "hash": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
+      "structure": "aopalliance-1.0.jar",
+      "size": 4467
+    },
+    {
+      "name": "autocomplete-3.1.1.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/autocomplete-3.1.1.jar",
+      "hash": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d",
+      "structure": "autocomplete-3.1.1.jar",
+      "size": 153177
+    },
+    {
+      "name": "bcprov-jdk15on-1.59.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/bcprov-jdk15on-1.59.jar",
+      "hash": "1c31e44e331d25e46d293b3e8ee2d07028a67db011e74cb2443285aed1d59c85",
+      "structure": "bcprov-jdk15on-1.59.jar",
+      "size": 4092400
+    },
+    {
+      "name": "byte-buddy-1.9.10.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/byte-buddy-1.9.10.jar",
+      "hash": "2936debc4d7b6c534848d361412e2d0f8bd06f7f27a6f4e728a20e97648d2bf3",
+      "structure": "byte-buddy-1.9.10.jar",
+      "size": 3272730
+    },
+    {
+      "name": "byte-buddy-agent-1.9.10.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/byte-buddy-agent-1.9.10.jar",
+      "hash": "8ed739d29132103250d307d2e8e3c95f07588ef0543ab11d2881d00768a5e182",
+      "structure": "byte-buddy-agent-1.9.10.jar",
+      "size": 43420
+    },
+    {
+      "name": "client-1.12.9-SNAPSHOT.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/client-1.12.9-SNAPSHOT.jar",
+      "hash": "654429175427f7fe8f9a3c44152a61097888afb4473d626149a1e9e3d088b469",
+      "structure": "client-1.12.9-SNAPSHOT.jar",
+      "size": 5043850
+    },
+    {
+      "name": "commons-lang3-3.7.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/commons-lang3-3.7.jar",
+      "hash": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847",
+      "structure": "commons-lang3-3.7.jar",
+      "size": 499634
+    },
+    {
+      "name": "commons-text-1.2.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/commons-text-1.2.jar",
+      "hash": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b",
+      "structure": "commons-text-1.2.jar",
+      "size": 136544
+    },
+    {
+      "name": "discord-1.4.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/discord-1.4.jar",
+      "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
+      "structure": "discord-1.4.jar",
+      "size": 681590
+    },
+    {
+      "name": "flatlaf-3.2.5-rl4.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/flatlaf-3.2.5-rl4.jar",
+      "hash": "c518fa0427c7f6029b115541c0dbcf633fc89a65467f8472c52bb71fe18b559c",
+      "structure": "flatlaf-3.2.5-rl4.jar",
+      "size": 792432
+    },
+    {
+      "name": "flatlaf-extras-3.2.5-rl4.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/flatlaf-extras-3.2.5-rl4.jar",
+      "hash": "8ed1c0ecc09bdaf7224e3750bf3fa29266295f902d3ceeaa1380b26c888b761f",
+      "structure": "flatlaf-extras-3.2.5-rl4.jar",
+      "size": 114738
+    },
+    {
+      "name": "gson-2.8.5.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/gson-2.8.5.jar",
+      "hash": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
+      "structure": "gson-2.8.5.jar",
+      "size": 241622
+    },
+    {
+      "name": "guava-23.2-jre.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guava-23.2-jre.jar",
+      "hash": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
+      "structure": "guava-23.2-jre.jar",
+      "size": 2649860
+    },
+    {
+      "name": "guice-4.1.0-no_aop.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-4.1.0-no_aop.jar",
+      "hash": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad",
+      "structure": "guice-4.1.0-no_aop.jar",
+      "size": 428603
+    },
+    {
+      "name": "guice-4.1.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-4.1.0.jar",
+      "hash": "9b9df27a5b8c7864112b4137fd92b36c3f1395bfe57be42fedf2f520ead1a93e",
+      "structure": "guice-4.1.0.jar",
+      "size": 674028
+    },
+    {
+      "name": "guice-assistedinject-4.1.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-assistedinject-4.1.0.jar",
+      "hash": "663728123fb9a6b79ea39ae289e5d56b4113e1b8e9413eb792f91e53a6dd5868",
+      "structure": "guice-assistedinject-4.1.0.jar",
+      "size": 42873
+    },
+    {
+      "name": "guice-grapher-4.1.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-grapher-4.1.0.jar",
+      "hash": "75eb30ef7bdc633505c628ddf407e32c204f9eea0e545d5f4ef6a5c9b331b505",
+      "structure": "guice-grapher-4.1.0.jar",
+      "size": 53023
+    },
+    {
+      "name": "guice-multibindings-4.1.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-multibindings-4.1.0.jar",
+      "hash": "592773a4c745cc87ba37fa0647fed8126c7e474349c603c9f229aa25d3ef5448",
+      "structure": "guice-multibindings-4.1.0.jar",
+      "size": 81866
+    },
+    {
+      "name": "guice-testlib-4.1.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/guice-testlib-4.1.0.jar",
+      "hash": "86ae88350b0a18e534ed887d8c9f08bdc7c11afb31459ea341d6a8707a060cc2",
+      "structure": "guice-testlib-4.1.0.jar",
+      "size": 14456
+    },
+    {
+      "name": "hamcrest-core-1.3.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/hamcrest-core-1.3.jar",
+      "hash": "66fdef91e9739348df7a096aa384a5685f4e875584cce89386a7a47251c4d8e9",
+      "structure": "hamcrest-core-1.3.jar",
+      "size": 45024
+    },
+    {
+      "name": "hamcrest-library-1.3.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/hamcrest-library-1.3.jar",
+      "hash": "711d64522f9ec410983bd310934296da134be4254a125080a0416ec178dfad1c",
+      "structure": "hamcrest-library-1.3.jar",
+      "size": 53070
+    },
+    {
+      "name": "http-api-1.2.21.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/http-api-1.2.21.jar",
+      "hash": "cc3cc5e3c1aab5b99dbc2d4d3c85ad16a09feb3d2eb8e5f54bc77b81dea5bb86",
+      "structure": "http-api-1.2.21.jar",
+      "size": 42859
+    },
+    {
+      "name": "injected-client-1.12.9-SNAPSHOT.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/injected-client-1.12.9-SNAPSHOT.jar",
+      "hash": "15ed7cadbd1258a6ff9650ad2c06096fb56024a1a953ecaf81e0a62bc219afea",
+      "structure": "injected-client-1.12.9-SNAPSHOT.jar",
+      "size": 2005719
+    },
+    {
+      "name": "javax.inject-1.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/javax.inject-1.jar",
+      "hash": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
+      "structure": "javax.inject-1.jar",
+      "size": 2497
+    },
+    {
+      "name": "jna-5.9.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jna-5.9.0.jar",
+      "hash": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
+      "structure": "jna-5.9.0.jar",
+      "size": 1729586
+    },
+    {
+      "name": "jna-platform-5.9.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jna-platform-5.9.0.jar",
+      "hash": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
+      "structure": "jna-platform-5.9.0.jar",
+      "size": 1343236
+    },
+    {
+      "name": "jopt-simple-5.0.1.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jopt-simple-5.0.1.jar",
+      "hash": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec",
+      "structure": "jopt-simple-5.0.1.jar",
+      "size": 78826
+    },
+    {
+      "name": "jshell-1.12.9-SNAPSHOT.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jshell-1.12.9-SNAPSHOT.jar",
+      "hash": "8b62856ba7f7c48643fc37742ef696dc5c0c7e31a7ceacb3ccf21744ec11ca67",
+      "structure": "jshell-1.12.9-SNAPSHOT.jar",
+      "size": 25237
+    },
+    {
+      "name": "json-20220320.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/json-20220320.jar",
+      "hash": "1edf7fcea79a16b8dfdd3bc988ddec7f8908b1f7762fdf00d39acb037542747a",
+      "structure": "json-20220320.jar",
+      "size": 70939
+    },
+    {
+      "name": "jsr305-3.0.2.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jsr305-3.0.2.jar",
+      "hash": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
+      "structure": "jsr305-3.0.2.jar",
+      "size": 19936
+    },
+    {
+      "name": "jsvg-1.2.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/jsvg-1.2.0.jar",
+      "hash": "912f37d85deaaf5b747700f5bd3761a93b14a5161900e7436cff386b6176118a",
+      "structure": "jsvg-1.2.0.jar",
+      "size": 499132
+    },
+    {
+      "name": "junit-4.12.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/junit-4.12.jar",
+      "hash": "59721f0805e223d84b90677887d9ff567dc534d7c502ca903c0c2b17f05c116a",
+      "structure": "junit-4.12.jar",
+      "size": 314932
+    },
+    {
+      "name": "logback-classic-1.2.9.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/logback-classic-1.2.9.jar",
+      "hash": "ad745cc243805800d1ebbf5b7deba03b37c95885e6bce71335a73f7d6d0f14ee",
+      "structure": "logback-classic-1.2.9.jar",
+      "size": 233855
+    },
+    {
+      "name": "logback-core-1.2.9.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/logback-core-1.2.9.jar",
+      "hash": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
+      "structure": "logback-core-1.2.9.jar",
+      "size": 454201
+    },
+    {
+      "name": "lombok-1.18.30.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lombok-1.18.30.jar",
+      "hash": "14151b47582d570b4de16a147ece3bdbd19ace4aee5bde3a5578c87db9ecb998",
+      "structure": "lombok-1.18.30.jar",
+      "size": 2011339
+    },
+    {
+      "name": "lwjgl-3.3.2-natives-linux-arm64.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-linux-arm64.jar",
+      "hash": "f4f4c13cd70224ec443753837f6652ec7ed11c5857ffc3e7d03e216aef6e663b",
+      "structure": "lwjgl-3.3.2-natives-linux-arm64.jar",
+      "size": 90795
+    },
+    {
+      "name": "lwjgl-3.3.2-natives-linux.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-linux.jar",
+      "hash": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
+      "structure": "lwjgl-3.3.2-natives-linux.jar",
+      "size": 114144
+    },
+    {
+      "name": "lwjgl-3.3.2-natives-macos-arm64.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-macos-arm64.jar",
+      "hash": "ebb8474ad3c19b906649ac41cef62314fd9b355cea5509d9be0c8728db7a6c38",
+      "structure": "lwjgl-3.3.2-natives-macos-arm64.jar",
+      "size": 48270
+    },
+    {
+      "name": "lwjgl-3.3.2-natives-macos.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-macos.jar",
+      "hash": "62603b9a92c789f0beb8ec25052f278d6f9ce02c6687c8f1afbc7483da54131a",
+      "structure": "lwjgl-3.3.2-natives-macos.jar",
+      "size": 60240
+    },
+    {
+      "name": "lwjgl-3.3.2-natives-windows-arm64.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-windows-arm64.jar",
+      "hash": "1575d4e2e789b411b3a193ac04a2c2d53dbc504de80a560578191c1c7d79e5ee",
+      "structure": "lwjgl-3.3.2-natives-windows-arm64.jar",
+      "size": 133200
+    },
+    {
+      "name": "lwjgl-3.3.2-natives-windows-x86.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-windows-x86.jar",
+      "hash": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
+      "structure": "lwjgl-3.3.2-natives-windows-x86.jar",
+      "size": 139365
+    },
+    {
+      "name": "lwjgl-3.3.2-natives-windows.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2-natives-windows.jar",
+      "hash": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
+      "structure": "lwjgl-3.3.2-natives-windows.jar",
+      "size": 164993
+    },
+    {
+      "name": "lwjgl-3.3.2.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-3.3.2.jar",
+      "hash": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
+      "structure": "lwjgl-3.3.2.jar",
+      "size": 786196
+    },
+    {
+      "name": "lwjgl-opencl-3.3.2.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opencl-3.3.2.jar",
+      "hash": "da0392abcea5121f5edd9042012600584ac628f4a18fcf5c1bce60f3f9f6a33a",
+      "structure": "lwjgl-opencl-3.3.2.jar",
+      "size": 238152
+    },
+    {
+      "name": "lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
+      "hash": "836e5641627f7bf3c966c93946f400cb77cdf65b8a347763e55e069d313e6def",
+      "structure": "lwjgl-opengl-3.3.2-natives-linux-arm64.jar",
+      "size": 58627
+    },
+    {
+      "name": "lwjgl-opengl-3.3.2-natives-linux.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-linux.jar",
+      "hash": "8956bca64d2851dc14ec6bfbfc55ce35fdff89270b5f2a3c9f70aea77f6d1e17",
+      "structure": "lwjgl-opengl-3.3.2-natives-linux.jar",
+      "size": 80464
+    },
+    {
+      "name": "lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
+      "hash": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
+      "structure": "lwjgl-opengl-3.3.2-natives-macos-arm64.jar",
+      "size": 42490
+    },
+    {
+      "name": "lwjgl-opengl-3.3.2-natives-macos.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-macos.jar",
+      "hash": "0c6a78c4e696deaddefd8346b4c13883704b36a890003075a33ccba2d1a13c2d",
+      "structure": "lwjgl-opengl-3.3.2-natives-macos.jar",
+      "size": 41485
+    },
+    {
+      "name": "lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
+      "hash": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0",
+      "structure": "lwjgl-opengl-3.3.2-natives-windows-arm64.jar",
+      "size": 83132
+    },
+    {
+      "name": "lwjgl-opengl-3.3.2-natives-windows-x86.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-windows-x86.jar",
+      "hash": "c3a32053bb4c042489f40936926487cdaf33089185b847fb298b84a62b5703ff",
+      "structure": "lwjgl-opengl-3.3.2-natives-windows-x86.jar",
+      "size": 88610
+    },
+    {
+      "name": "lwjgl-opengl-3.3.2-natives-windows.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2-natives-windows.jar",
+      "hash": "0275a42f91c6bc5f08bdc1f7c7e263058cc99dbed7c710a025e4ad175e9a0edd",
+      "structure": "lwjgl-opengl-3.3.2-natives-windows.jar",
+      "size": 101530
+    },
+    {
+      "name": "lwjgl-opengl-3.3.2.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/lwjgl-opengl-3.3.2.jar",
+      "hash": "0ebaaf92d306c946ce9d3db25496b9068b7aab782b15966be2544b6a24838038",
+      "structure": "lwjgl-opengl-3.3.2.jar",
+      "size": 928871
+    },
+    {
+      "name": "mockito-core-3.1.0.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/mockito-core-3.1.0.jar",
+      "hash": "89b09e518e04f5c35f5ccf7abe45e72f594070a53d95cc2579001bd392c5afa6",
+      "structure": "mockito-core-3.1.0.jar",
+      "size": 591028
+    },
+    {
+      "name": "mockwebserver-3.14.9.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/mockwebserver-3.14.9.jar",
+      "hash": "099f70ab2997f628bf93c358baac829ccb625b6e08a9361e09d6923fa9af1f68",
+      "structure": "mockwebserver-3.14.9.jar",
+      "size": 43037
+    },
+    {
+      "name": "objenesis-2.6.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/objenesis-2.6.jar",
+      "hash": "5e168368fbc250af3c79aa5fef0c3467a2d64e5a7bd74005f25d8399aeb0708d",
+      "structure": "objenesis-2.6.jar",
+      "size": 55684
+    },
+    {
+      "name": "okhttp-3.14.9.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/okhttp-3.14.9.jar",
+      "hash": "2570fab55515cbf881d7a4ceef49fc515490bc027057e666776a2832465aeca0",
+      "structure": "okhttp-3.14.9.jar",
+      "size": 430488
+    },
+    {
+      "name": "okio-1.17.2.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/okio-1.17.2.jar",
+      "hash": "f80ce42d2ffac47ad4c47e1d6f980d604d247ceb1a886705cf4581ab0c9fe2b8",
+      "structure": "okio-1.17.2.jar",
+      "size": 91980
+    },
+    {
+      "name": "orange-extensions-1.1.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/orange-extensions-1.1.jar",
+      "hash": "d0bd6817f4e73c9f99ea4c24271b73e48dabfb8964cf7617724cc9659ed674b3",
+      "structure": "orange-extensions-1.1.jar",
+      "size": 13536
+    },
+    {
+      "name": "protobuf-javalite-3.21.12.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/protobuf-javalite-3.21.12.jar",
+      "hash": "cf678ab3fbc992f4b4654a86c03557c21904d635202b67688fcb2eca442c2d40",
+      "structure": "protobuf-javalite-3.21.12.jar",
+      "size": 703181
+    },
+    {
+      "name": "rlawt-1.6.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/rlawt-1.6.jar",
+      "hash": "aaed84205736b9074b9e8163c17167ca40a66becf5ab469d6af2266f8e8ef5a0",
+      "structure": "rlawt-1.6.jar",
+      "size": 236090
+    },
+    {
+      "name": "rsyntaxtextarea-3.1.2.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/rsyntaxtextarea-3.1.2.jar",
+      "hash": "5333ffa1166c54853d784943c5c44326a5e27e1613de2c07819ae12afe207097",
+      "structure": "rsyntaxtextarea-3.1.2.jar",
+      "size": 1209918
+    },
+    {
+      "name": "runelite-api-1.12.9-SNAPSHOT.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/runelite-api-1.12.9-SNAPSHOT.jar",
+      "hash": "4ac7f54731c6d3a12970a2280907d4b3360d1ac1c1dd1c87f65ccb40a5af0088",
+      "structure": "runelite-api-1.12.9-SNAPSHOT.jar",
+      "size": 4998266
+    },
+    {
+      "name": "runescape-api-1.12.9-SNAPSHOT.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/runescape-api-1.12.9-SNAPSHOT.jar",
+      "hash": "17dce536eb07c6ec589d9c111c4c5fd2d1dd5f34f4fa4eb795b7e58265252cf0",
+      "structure": "runescape-api-1.12.9-SNAPSHOT.jar",
+      "size": 5609
+    },
+    {
+      "name": "slf4j-api-1.7.25.jar",
+      "path": "https://github.com/Khaled431/BitRune-Public/raw/master/release/slf4j-api-1.7.25.jar",
+      "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
+      "structure": "slf4j-api-1.7.25.jar",
+      "size": 41203
+    }
+  ]
+}
